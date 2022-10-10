@@ -69,7 +69,7 @@ Tingyu Luo, **Boheng Li**, Qingxiang Meng
 - **Outstanding Winner Award (highest award).** The 14th Shenzhen Innovation and Entrepreneurship Competition. *2022.07*
 - **First Place in Second Prize.** The 2018 National Olympic in Informatics, Sichuan Provincial Competition (NOIp'18). *2018.11*
 
-# 🎖 Honors and Awards
+# 🎖 Scholarships and Honors
 - *2022.10* **Pacemaker to Merit Student** (Award Rate: 60/59774=0.1%, 60 candidates per year in WHU) *Wuhan University*
 - *2022.10* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
 - *2022.10* **First Class Scholarship of WHU** (Award Rate: 5% school-wide) *Wuhan University* 
