@@ -25,7 +25,7 @@ My research interest lies in Artificial Intelligence (AI) Security & Privacy, wh
 
 I have won the First Class Scholarship of WHU (5% school-wide) 2 times, the HUANG Zhangren Scholarship (60 candidates per year in WHU), the National Scholarship (0.2% national-wide), and was selected the Pacemaker to Merit Student of WHU (60 candidates per year in WHU).
 
-🌟🌟 I'm currently actively seeking for Ph.D., Research Assistant, or internship positions related to AI. If you're interested in working with me, don't hesitate to drop me an email. My curriculum vitae will be available soon.
+🌟🌟 I'm currently actively seeking for Ph.D., Research Assistant, or internship positions related to Information Security. If you're interested in working with me, don't hesitate to drop me an email. My curriculum vitae will be available soon.
 
 # 🔥 News
 - *2022.10*: I won the National Scholarship (0.2% national-wide), and was selected the Pacemaker to Merit Student of WHU (Award Rate: 60/59774=0.1%).
