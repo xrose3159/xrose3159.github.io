@@ -74,7 +74,7 @@ Tingyu Luo, **Boheng Li**, Qingxiang Meng
 - *2022.10* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
 - *2022.10* **First Class Scholarship of WHU** (Award Rate: 5% school-wide) *Wuhan University* 
 - *2022.06* **Social Activist** (Award Rate: 1584/59774=2.6%) *Wuhan University*
-- *2021.10* **Merit Student**  (Award Rate: 30% school-wide) *Wuhan University* 
+- *2021.10* **Merit Student**  (Award Rate: 10% school-wide) *Wuhan University* 
 - *2021.10* **HUANG Zhangren Scholarship** (Award Rate: 60/59774=0.1%, 60 candidates per year in WHU) *Wuhan University* 
 - *2021.10* **First Class Scholarship of WHU** (Award Rate: 5% school-wide) *Wuhan University* 
 - *2021.06* **Excellent Student Cadre** (Award Rate: 924/59774=1.5%) *Wuhan University*
