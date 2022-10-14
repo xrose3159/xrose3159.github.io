@@ -28,8 +28,10 @@ I have won the First Class Scholarship of WHU 2 times (5% school-wide), the HUAN
 🌟🌟 I'm currently actively seeking for Ph.D., Research Assistant, or internship positions related to Information Security or AI. If you're interested in working with me, don't hesitate to drop me an email. My curriculum vitae will be available soon.
 
 # 🔥 News
+- *2022.10*: One paper about a novel & cost efficient watermarking scheme is submitted to WWW 2023.
 - *2022.10*: I won the National Scholarship (0.2% national-wide), and was selected the Pacemaker to Merit Student of WHU (Award Rate: 60/59774=0.1%).
 - *2022.10*: I ranked 1/157 in the 2022 Comprehensive Assessment of the SCSE with a full score in practice and innovation ability (F3). My total score surpasses the second place by 11%.
+- *2022.08*: One paper regarding defending DNN watermarks against watermark removal attacks is submitted to AAAI 2023.
 - *2022.08*: Our team won the Outstanding Winner Award (highest award) in the 2022 National College Student Surveying and Mapping Discipline Innovation and Entrepreneurship Intelligent Competition Development and Design Competition. Congrats to my teammates Jiahao Zhou, Sixing Lin, and Tingyu Luo.
 - *2022.08*: Our team "AntiE" won the Golden Prize in the 8th China College Students "Internet+" Innovation and Entrepreneurship Competition, Hubei Province Division (Chinese: 中国“互联网+”大学生创新创业大赛), and successfully entered the National Finals.
 - *2022.08*: Our team won the First Prize in the 15th Chinese Collegiate Computing Competition National Finals (4C'2022). Congratulations to my teammates Jiahao Zhou and Sixing Lin.
