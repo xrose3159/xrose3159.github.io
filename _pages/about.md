@@ -46,7 +46,8 @@ I have won the First Class Scholarship of WHU 2 times (5% school-wide), the HUAN
 
 To be updated.
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- ## 🖨️ Preprints
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Comprehensive Evaluation of Emergency Shelters in Wuhan City Based on GIS](https://arxiv.org/pdf/2209.07687.pdf)
