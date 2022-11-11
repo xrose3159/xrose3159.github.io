@@ -64,7 +64,7 @@ Tingyu Luo, **Boheng Li**, Qingxiang Meng
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🏆 Competition Awards
--🏅️**National Golden Prize (highest award).** The 8th China College Students "Internet+" Innovation and Entrepreneurship Competition. *2022.11*
+- 🏅️**National Golden Prize (highest award).** The 8th China College Students "Internet+" Innovation and Entrepreneurship Competition. *2022.11*
 - **First Prize (highest award).** The 15th Chinese Collegiate Computing Competition National Finals (4C'2022). *2022.09*
 - **Golden Prize of Hubei Province (highest award).** The 2022 "Challenge Cup" Innovation and Entrepreneurship Competition. *2022.08*
 - **Outstanding Winner Award (highest award).** The 2022 National College Student Surveying and Mapping Discipline Innovation and Entrepreneurship Intelligent Competition Development and Design Competition. *2022.08*
