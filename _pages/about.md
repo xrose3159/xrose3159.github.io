@@ -68,7 +68,7 @@ Other 2 papers regarding IP protection of DL are currently submitted to CCF-A ti
 
 # 🏆 Competition Awards
 - 🏅️ **Golden Reward (highest award).** The 8th China College Students "Internet+" Innovation and Entrepreneurship Competition. *2022.11*
-- **First Prize (highest award).** The 2022 China Mobile Creator Marathon Special Competition on "OnePoint" Spatio-temporal Information *2022.11*
+- **First Prize (highest award).** The 2022 China Mobile Creator Marathon "OnePoint" Special Competition on Spatio-temporal Information *2022.11*
 - **First Prize (highest award).** The 15th Chinese Collegiate Computing Competition National Finals (4C'2022). *2022.09*
 - **Golden Prize of Hubei Province (highest award).** The 2022 "Challenge Cup" Innovation and Entrepreneurship Competition. *2022.08*
 - **Outstanding Winner Award (highest award).** The 2022 National College Student Surveying and Mapping Discipline Innovation and Entrepreneurship Intelligent Competition Development and Design Competition. *2022.08*
