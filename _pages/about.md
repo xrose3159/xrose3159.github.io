@@ -64,14 +64,10 @@ Tingyu Luo, **Boheng Li**, Qingxiang Meng
 
 Run Wang, Jixing Ren, **Boheng Li**, Tianyi She, Chenhao Lin, Liming Fang, Jing Chen, Chao Shen, Lina Wang
 
-*ArXiv Preprint & In submission, 2022*
+*ArXiv Preprint & In Submission, 2022*
 
 
 Other 2 papers are currently in submission.
-<!-- [MagicGuard: A Simple yet Effective Defense against Watermark Removal Attack on DNN Models]()
-Lingzhou Mu, Boheng Li, Haoxuan Li, Run Wang, Li Liu, Liming Fang, Chenhao Lin, Chao Shen, Jing Chen, Lina Wang
-
-*In submission, 2022* -->
 
 
 # 🏆 Competition Awards
