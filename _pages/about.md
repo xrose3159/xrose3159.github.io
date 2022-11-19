@@ -46,17 +46,19 @@ I have won the First Class Scholarship of WHU 2 times (5% school-wide), the HUAN
 
 # 📝 Publications 
 
+†: equal contribution, *: corresponding author
+
 ## Geoinformatics & Remote Sensing
 [Optimized Design Method for Satellite Constellation Configuration Based on Real-time Coverage Area Evaluation](https://arxiv.org/pdf/2209.09131.pdf) 
 
-Jiahao Zhou, **Boheng Li**, Qingxiang Meng
+Jiahao Zhou†, **Boheng Li†**, Qingxiang Meng
 
 *The 29th International Conference on Geoinformatics (CPGIS), 2022*
 
 
 [Comprehensive Evaluation of Emergency Shelters in Wuhan City Based on GIS](https://arxiv.org/pdf/2209.07687.pdf) 
 
-Tingyu Luo, **Boheng Li**, Qingxiang Meng
+Tingyu Luo†, **Boheng Li†**, Qingxiang Meng
 
 *The 29th International Conference on Geoinformatics (CPGIS), 2022*
 
