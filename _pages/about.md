@@ -46,22 +46,33 @@ I have won the First Class Scholarship of WHU 2 times (5% school-wide), the HUAN
 
 # 📝 Publications 
 
-To be updated.
+## Geoinformatics & Remote Sensing
+[Optimized Design Method for Satellite Constellation Configuration Based on Real-time Coverage Area Evaluation](https://arxiv.org/pdf/2209.09131.pdf) 
+Jiahao Zhou, **Boheng Li**, Qingxiang Meng
 
-<!-- ## 🖨️ Preprints
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+*The 29th International Conference on Geoinformatics (CPGIS), 2022*
 
-[Comprehensive Evaluation of Emergency Shelters in Wuhan City Based on GIS](https://arxiv.org/pdf/2209.07687.pdf)
+
+[Comprehensive Evaluation of Emergency Shelters in Wuhan City Based on GIS](https://arxiv.org/pdf/2209.07687.pdf) 
 
 Tingyu Luo, **Boheng Li**, Qingxiang Meng
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+*The 29th International Conference on Geoinformatics (CPGIS), 2022*
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+## 🖨️ Preprints & In Submission
+[Free Fine-tuning: A Plug-and-Play Watermarking Scheme for Deep Neural Networks](https://arxiv.org/abs/2210.07809) 
+
+Run Wang, Jixing Ren, **Boheng Li**, Tianyi She, Chenhao Lin, Liming Fang, Jing Chen, Chao Shen, Lina Wang
+
+*ArXiv Preprint & In submission, 2022*
+
+
+Other 2 papers are currently in submission.
+<!-- [MagicGuard: A Simple yet Effective Defense against Watermark Removal Attack on DNN Models]()
+Lingzhou Mu, Boheng Li, Haoxuan Li, Run Wang, Li Liu, Liming Fang, Chenhao Lin, Chao Shen, Jing Chen, Lina Wang
+
+*In submission, 2022* -->
+
 
 # 🏆 Competition Awards
 - 🏅️ **Golden Reward (highest award).** The 8th China College Students "Internet+" Innovation and Entrepreneurship Competition. *2022.11*
