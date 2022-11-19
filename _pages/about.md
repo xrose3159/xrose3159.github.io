@@ -49,7 +49,7 @@ I have won the First Class Scholarship of WHU 2 times (5% school-wide), the HUAN
 $^\dagger$: equal contribution, $^*$: corresponding author
 
 ## 🛰️ Geoinformatics & Remote Sensing
-- [Optimized Design Method for Satellite Constellation Configuration Based on Real-time Coverage Area Evaluation](https://arxiv.org/pdf/2209.09131.pdf)   
+- **Optimized Design Method for Satellite Constellation Configuration Based on Real-time Coverage Area Evaluation** \[[ArXiv](https://arxiv.org/pdf/2209.09131.pdf)\]   
 Jiahao Zhou$^\dagger$, **Boheng Li$^\dagger$**, Qingxiang Meng   
 *[The 29th International Conference on Geoinformatics (CPGIS), 2022](https://www.cpgis.org/conferences/ConferenceDefault.aspx?ID=2078)*
 
