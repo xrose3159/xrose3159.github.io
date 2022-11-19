@@ -70,7 +70,7 @@ Run Wang, Jixing Ren, **Boheng Li**, Tianyi She, Chenhao Lin, Liming Fang, Jing 
 *ArXiv Preprint & In Submission, 2022*
 
 
-Other 2 papers are currently in submission.
+Other 2 papers regarding IP protection of DL are currently submitted to CCF-A tier conferences.
 
 
 # 🏆 Competition Awards
