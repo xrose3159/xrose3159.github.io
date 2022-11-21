@@ -91,8 +91,16 @@ Other 2 papers regarding IP protection of DL have currently been submitted to CC
 - *2017.09 - 2020.06*, Senior Middle School, Class of Olympic in Informatics, Chengdu Foreign Languages School, China.
 - *2014.09 - 2017.06*, Junior Middle School, Chengdu Foreign Languages School, China.
 
-<!-- # 💬 Invited Talks
-To be updated.
+# 🎡 Activities
 
-# 💻 Internships
+## Services
+
+- Sub-Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023
+- Sub-Reviewer, AAAI Conference on Artificial Intelligence (AAAI), 2023
+
+## Invited talks
+
+- Towards Entrepreneurship & Innovation Competitions (in Chinese), 2022 \[[slides](../docs/towards-22.pdf)\]
+
+<!-- # 💻 Internships
 To be updated. -->
