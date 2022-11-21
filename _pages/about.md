@@ -100,7 +100,7 @@ Other 2 papers regarding IP protection of DL have currently been submitted to CC
 
 ## Invited talks
 
-- Towards Entrepreneurship & Innovation Competitions (in Chinese), 2022 \[[slides](../docs/towards-22.pdf)\]
+- Towards Entrepreneurship & Innovation Competitions (in Chinese), 2022 \[[slides](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/towards-22.pdf)\]
 
 <!-- # 💻 Internships
 To be updated. -->
