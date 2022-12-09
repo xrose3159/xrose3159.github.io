@@ -98,6 +98,8 @@ Other 2 papers regarding IP protection of DL have currently been submitted to CC
 - Sub-Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023
 - Sub-Reviewer, AAAI Conference on Artificial Intelligence (AAAI), 2023
 
+## Teaching Experiences
+- Teaching Assistant, Artificial Intelligence (AI), Undergraduate Students, Fall 2022.
 ## Invited talks
 
 - Towards Entrepreneurship & Innovation Competitions (in Chinese), 2022 \[[slides](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/towards-22.pdf)\]
