@@ -59,6 +59,9 @@ author:
   wikipedia        :
 
 
+encoding: utf-8
+
+
 # Reading Files
 include:
   - .htaccess
