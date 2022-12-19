@@ -126,7 +126,7 @@ To be updated. -->
 
 - [北京邮电大学鲁鹏--计算机视觉 清晰版 国家级精品课程](https://www.bilibili.com/video/BV1VW4y1v7Ph/)
 
-- [火炉课堂 | 深度学习 (厦门大学)](https://www.bilibili.com/video/BV1qq4y1f7Fm)
+- [火炉课堂-深度学习 (厦门大学)](https://www.bilibili.com/video/BV1qq4y1f7Fm)
 
 - [中科大-凸优化](https://www.bilibili.com/video/av40868517)
 
@@ -172,7 +172,7 @@ To be updated. -->
 
 ## Roadmap
 
-- [Github 项目推荐 | 科研人必看！盘点那些最好用的 AI 学术科研工具](https://zhuanlan.zhihu.com/p/153279496)
+- [科研人必看！盘点那些最好用的 AI 学术科研工具](https://zhuanlan.zhihu.com/p/153279496)
 
 - [本科生如何自学机器学习？](https://www.zhihu.com/question/332726203/answer/737596538)
 
