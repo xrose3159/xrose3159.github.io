@@ -124,7 +124,7 @@ To be updated. -->
 
 - [CS131 Computer Vision: Foundations and Applications](http://vision.stanford.edu/teaching/cs131_fall2223/index.html)
 
-- [北京邮电大学鲁鹏--计算机视觉 清晰版 国家级精品课程](https://www.bilibili.com/video/BV1VW4y1v7Ph/)
+- [北京邮电大学鲁鹏-计算机视觉 清晰版 国家级精品课程](https://www.bilibili.com/video/BV1VW4y1v7Ph/)
 
 - [火炉课堂-深度学习 (厦门大学)](https://www.bilibili.com/video/BV1qq4y1f7Fm)
 
