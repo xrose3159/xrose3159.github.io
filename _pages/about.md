@@ -132,6 +132,8 @@ To be updated. -->
 
 - [The Next Step for Machine Learning (Hung-yi Lee, NTU, 2019)](https://www.youtube.com/watch?v=XnyM3-xtxHs&list=PLJV_el3uVTsOK_ZK5L0Iv_EQoL1JefRL4)
 
+- [人工智能的数学基础（清华出版社）](https://www.bilibili.com/video/BV15N4y1w7e1/)
+
 - [理解机器学习](https://www.bilibili.com/video/BV1hg411h7ys)
 
 ## Writing
