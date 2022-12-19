@@ -148,6 +148,8 @@ To be updated. -->
 
 - [科学写作与哲学](https://zhuanlan.zhihu.com/p/433168083)
 
+- [绘图软件/编程大全](https://www.bilibili.com/video/BV1gR4y1y76U)
+
 - [如何进行高质量科研论文的写作：Shui Yu 悉尼科技大学](https://www.bilibili.com/video/BV1a8411s7Nr?p=1)
 
 ## 💻 Coding Skills
