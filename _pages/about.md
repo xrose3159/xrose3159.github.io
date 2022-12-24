@@ -25,7 +25,9 @@ My research interest lies in Artificial Intelligence (AI) Security & Privacy, wh
 
 I have won the First Class Scholarship of WHU 2 times (5% school-wide), the HUANG Zhangren Scholarship (60 candidates per year in WHU), the National Scholarship (0.2% national-wide), and was selected the Pacemaker to Merit Student of WHU (60 candidates per year in WHU). I was awarded 🏅️ the **Gold Reward** of [The 8th China International College Students 'Internet+' Innovation and Entrepreneurship Competition](https://cy.ncss.cn/), the highest and most valuable competition award for Chinese college students (national-wide, refer to [this link](https://news.eol.cn/yaowen/202103/t20210322_2087129.shtml)), as the co-founder of the team.
 
-🌟🌟 I'm currently actively seeking for Ph.D., Research Assistant, or internship positions related to Information Security or AI. If you're interested in working with me, don't hesitate to drop me an email. My curriculum vitae will be available soon.
+🌟🌟 I'm currently actively seeking for Ph.D., Research Assistant, or internship positions related to Information Security or AI. If you're interested in working with me, don't hesitate to drop me an email. 
+
+My curriculum vitae can be downloaded [here](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/Boheng_Li_s_Resume_English.pdf).
 
 # 🔥 News
 - *2022.11*: Our team "AntiE" won the **Gold Reward** (national highest award, award rate less than 0.01%) of the 8th China International College Students 'Internet+' Innovation and Entrepreneurship Competition (Chinese: 中国国际“互联网+”大学生创新创业大赛), it's a great honor! Congratulations to my teammates Jiahao Zhou, Tingyu Luo, Xinyue Zhang, Sixing Lin, Tong Zong, Zhuoyuan Wu, Chang Lu, Jie Xiao, Yiqing Li, Hanrui Yao, Weijing Li, and Fan Wang. Thanks to our team's former members Xin Cao and Chong Hu, our advisers Qingxiang Meng, Xiaoliang Meng, Run Wang and Linqing Liu, thanks to Chufeng Wu, Prof. Jun Qian, Prof. Huying Zhang, Mr. Qilin Sun who helped us a lot! Thanks to my mom and dad, thanks to everyone!
@@ -101,9 +103,9 @@ Other 2 papers regarding IP protection of DL have currently been submitted to CC
 ## Teaching Experiences
 - Teaching Assistant, Artificial Intelligence (AI), Undergraduate Students, Fall 2022.
 
-## Invited talks
+<!-- ## Invited talks
 
-- Towards Entrepreneurship & Innovation Competitions (in Chinese), 2022 \[[slides](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/towards-22.pdf)\]
+- Towards Entrepreneurship & Innovation Competitions (in Chinese), 2022 \[[slides](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/towards-22.pdf)\] -->
 
 <!-- # 💻 Internships
 To be updated. -->
