@@ -95,13 +95,13 @@ Other 2 papers regarding IP protection of DL have currently been submitted to CC
 
 # 🎡 Activities
 
-## Services
+## Academic Services
 
 - Sub-Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023
 - Sub-Reviewer, AAAI Conference on Artificial Intelligence (AAAI), 2023
 
 ## Teaching Experiences
-- Teaching Assistant, Artificial Intelligence (AI), Undergraduate Students, Fall 2022.
+- Teaching Assistant, Artificial Intelligence (AI), Undergrads, SCSE, WHU, Fall 2022. \[[理论复习课PPT](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/AI2022Review-BohengLi.pdf)\] \[[2022 Fall期末考试试卷PDF](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/AIFinalExam-Fall2022.pdf)\]
 
 <!-- ## Invited talks
 
@@ -110,7 +110,7 @@ Other 2 papers regarding IP protection of DL have currently been submitted to CC
 <!-- # 💻 Internships
 To be updated. -->
 
-# 🔗 Useful Links
+<!-- # 🔗 Useful Links
 
 ## Courses
 
@@ -204,4 +204,4 @@ To be updated. -->
 
 - [自动超参数搜索工具optuna](https://github.com/optuna/optuna)
 
-- [科研写作技巧](https://www.zhihu.com/question/528654768/answer/2452424449)
+- [科研写作技巧](https://www.zhihu.com/question/528654768/answer/2452424449) -->
