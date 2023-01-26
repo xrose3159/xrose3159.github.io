@@ -103,9 +103,9 @@ Other 2 papers regarding IP protection of DL have currently been submitted to CC
 ## Teaching Experiences
 - Teaching Assistant, Artificial Intelligence (AI), Undergrads, SCSE, WHU, Fall 2022. \[[理论复习课PPT](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/AI2022Review-BohengLi.pdf)\] \[[2022 Fall期末考试试卷PDF](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/AIFinalExam-Fall2022.pdf)\]
 
-<!-- ## Invited talks
+## Invited talks
 
-- Towards Entrepreneurship & Innovation Competitions (in Chinese), 2022 \[[slides](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/towards-22.pdf)\] -->
+- Towards Entrepreneurship & Innovation Competitions (in Chinese), 2022 \[[Slides](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/towards-22.pdf)\]
 
 <!-- # 💻 Internships
 To be updated. -->
