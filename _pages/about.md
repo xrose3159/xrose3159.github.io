@@ -30,6 +30,7 @@ I have won the First Class Scholarship of WHU 2 times (5% school-wide), the HUAN
 My curriculum vitae can be downloaded [here (in English)](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/Boheng_Li_s_CV.pdf).
 
 # 🔥 News
+- *2023.02*: I was awarded the Huawei Scholarship (54 candidates per year in WHU) by Wuhan University & Huawei Technologies Co., Ltd.
 - *2022.11*: Our team "AntiE" won the **Gold Reward** (national highest award, award rate less than 0.01%) of the 8th China International College Students 'Internet+' Innovation and Entrepreneurship Competition (Chinese: 中国国际“互联网+”大学生创新创业大赛), it's a great honor! Congratulations to my teammates Jiahao Zhou, Tingyu Luo, Xinyue Zhang, Sixing Lin, Tong Zong, Zhuoyuan Wu, Chang Lu, Jie Xiao, Yiqing Li, Hanrui Yao, Weijing Li, and Fan Wang. Thanks to our team's former members Xin Cao and Chong Hu, our advisers Qingxiang Meng, Xiaoliang Meng, Run Wang and Linqing Liu, thanks to Chufeng Wu, Prof. Jun Qian, Prof. Huying Zhang, Mr. Qilin Sun who helped us a lot! Thanks to my mom and dad, thanks to everyone!
 - *2022.10*: Our team "AntiE" enters the national finals of the 8th China International College Students "Internet+" Innovation and Entrepreneurship Competition (Chinese: 中国国际“互联网+”大学生创新创业大赛), see you in Chongqing!
 - *2022.10*: I won the National Scholarship (0.2% national-wide), and was selected the Pacemaker to Merit Student of WHU (Award Rate: 60/59774=0.1%).
