@@ -69,13 +69,13 @@ Other 2 papers regarding IP protection of DL have currently been submitted to CC
 
 
 # 🏆 Competition Awards
-- 🏅️ **Gold Reward (highest award).** The 8th China International College Students "Internet+" Innovation and Entrepreneurship Competition. *2022.11*
-- **First Prize (highest award).** The 2022 China Mobile Creator Marathon "OnePoint" Special Competition on Spatio-temporal Information *2022.11*
-- **First Prize (highest award).** The 15th Chinese Collegiate Computing Competition National Finals (4C'2022). *2022.09*
-- **Golden Prize of Hubei Province (highest award).** The 2022 "Challenge Cup" Innovation and Entrepreneurship Competition. *2022.08*
-- **Outstanding Winner Award (highest award).** The 2022 National College Student Surveying and Mapping Discipline Innovation and Entrepreneurship Intelligent Competition Development and Design Competition. *2022.08*
+- 🏅️ **Gold Reward.** The 8th China International College Students "Internet+" Innovation and Entrepreneurship Competition. *2022.11*
+- **First Prize.** The 2022 China Mobile Creator Marathon "OnePoint" Special Competition on Spatio-temporal Information *2022.11*
+- **First Prize.** The 15th Chinese Collegiate Computing Competition National Finals (4C'2022). *2022.09*
+- **Golden Prize of Hubei Province.** The 2022 "Challenge Cup" Innovation and Entrepreneurship Competition. *2022.08*
+- **Outstanding Winner Award.** The 2022 National College Student Surveying and Mapping Discipline Innovation and Entrepreneurship Intelligent Competition Development and Design Competition. *2022.08*
 - **Second Prize.** The Lanqiao Cup Competition National Finals. *2022.08*
-- **Outstanding Winner Award (highest award).** The 14th Shenzhen Innovation and Entrepreneurship Competition. *2022.07*
+- **Outstanding Winner Award.** The 14th Shenzhen Innovation and Entrepreneurship Competition. *2022.07*
 - **First Place in Second Prize.** The 2018 National Olympic in Informatics, Sichuan Provincial Competition (NOIp'18). *2018.11*
 
 # 🎖 Scholarships and Honors
