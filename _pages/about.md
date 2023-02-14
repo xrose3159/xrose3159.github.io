@@ -79,8 +79,8 @@ Other 2 papers regarding IP protection of DL have currently been submitted to CC
 - **First Place in Second Prize.** The 2018 National Olympic in Informatics, Sichuan Provincial Competition (NOIp'18). *2018.11*
 
 # 🎖 Scholarships and Honors
-- *2023.02* **Huawei Scholarship** (Award Rate: 54/59774=0.1%, 54 candidates per year in WHU) *Wuhan University & Huawei Technologies Co., Ltd.*
-- *2022.10* **Pacemaker to Merit Student** (Award Rate: 60/59774=0.1%, 60 candidates per year in WHU) *Wuhan University*
+- *2023.02* **Huawei Scholarship** (Award Rate: 54/59774=0.1%) *Wuhan University & Huawei Technologies Co., Ltd.*
+- *2022.10* **Pacemaker to Merit Student** (Award Rate: 60/59774=0.1%) *Wuhan University*
 - *2022.10* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
 - *2022.10* **First Class Scholarship of WHU** (Award Rate: 5% school-wide) *Wuhan University* 
 - *2022.06* **Social Activist** (Award Rate: 1584/59774=2.6%) *Wuhan University*
