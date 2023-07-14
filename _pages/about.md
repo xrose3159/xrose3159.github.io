@@ -31,6 +31,7 @@ My curriculum vitae can be downloaded [here (in English)](https://github.com/Ant
 
 # 🔥 News
 - *2023.07*: One paper is accepted by ICCV 2023.
+- *2023.06*: Invited as a reviewer by ACM MM.
 - *2023.02*: I was awarded the Huawei Scholarship (54 candidates per year in WHU) by Wuhan University & Huawei Technologies Co., Ltd.
 - *2022.11*: Our team "AntiE" won the **Gold Reward** (national highest award, award rate less than 0.01%) of the 8th China International College Students 'Internet+' Innovation and Entrepreneurship Competition (Chinese: 中国国际“互联网+”大学生创新创业大赛), it's a great honor! Congratulations to my teammates Jiahao Zhou, Tingyu Luo, Xinyue Zhang, Sixing Lin, Tong Zong, Zhuoyuan Wu, Chang Lu, Jie Xiao, Yiqing Li, Hanrui Yao, Weijing Li, and Fan Wang. Thanks to our team's former members Xin Cao and Chong Hu, our advisers Qingxiang Meng, Xiaoliang Meng, Run Wang and Linqing Liu, thanks to Chufeng Wu, Prof. Jun Qian, Prof. Huying Zhang, Mr. Qilin Sun who helped us a lot! Thanks to my mom and dad, thanks to everyone!
 - *2022.10*: Our team "AntiE" enters the national finals of the 8th China International College Students "Internet+" Innovation and Entrepreneurship Competition (Chinese: 中国国际“互联网+”大学生创新创业大赛), see you in Chongqing!
