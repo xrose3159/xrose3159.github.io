@@ -53,14 +53,14 @@ My curriculum vitae can be downloaded [here (in English)](https://github.com/Ant
 
 $^\dagger$: equal contribution, $^*$: corresponding author
 
-## 🛰️ Geoinformatics & Remote Sensing
+<!-- ## 🛰️ Geoinformatics & Remote Sensing
 - [Optimized Design Method for Satellite Constellation Configuration Based on Real-time Coverage Area Evaluation](https://ieeexplore.ieee.org/document/9963835)   
 Jiahao Zhou, **Boheng Li**, Qingxiang Meng   
 *The 29th International Conference on Geoinformatics (CPGIS), 2022*
 
 - [Comprehensive Evaluation of Emergency Shelters in Wuhan City Based on GIS](https://ieeexplore.ieee.org/document/9963810)   
 Tingyu Luo, **Boheng Li**, Jiahao Zhou, Qingxiang Meng   
-*The 29th International Conference on Geoinformatics (CPGIS), 2022*
+*The 29th International Conference on Geoinformatics (CPGIS), 2022* -->
 
 ## 🤖️ AI Security, Privacy & Intellectual Property (IP) Protection
 - [What can Discriminator do? Towards Box-free Ownership Verification of Generative Adversarial Networks](https://antigonerandy.github.io/)   
