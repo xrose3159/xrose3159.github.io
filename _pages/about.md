@@ -62,7 +62,7 @@ Tingyu Luo, **Boheng Li**, Jiahao Zhou, Qingxiang Meng
 *The 29th International Conference on Geoinformatics (CPGIS), 2022*
 
 ## AI Security, Privacy, and Intellectual Property (IP) Protection
-- [What can Discriminator do? Towards Box-free Ownership Verification of Generative Adversarial Networks](https://antigonerandy.github.io/)
+- [What can Discriminator do? Towards Box-free Ownership Verification of Generative Adversarial Networks](https://antigonerandy.github.io/)   
 Ziheng Huang $^\dagger$, Boheng Li $^\dagger$ , Yan Cai, Run Wang $^*$, Shangwei Guo, Liming Fang, Jing Chen, and Lina Wang *International Conference on Computer Vision (ICCV), 2023*
 
 ## 🖨️ Preprints & In Submission
