@@ -70,7 +70,7 @@ Ziheng Huang $^\dagger$, **Boheng Li** $^\dagger$, Yan Cai, Run Wang, Shangwei G
 ## 🖨️ Preprints & In Submission
 - [Free Fine-tuning: A Plug-and-Play Watermarking Scheme for Deep Neural Networks](https://arxiv.org/abs/2210.07809)   
 Run Wang, Jixing Ren, **Boheng Li**, Tianyi She, Chenhao Lin, Liming Fang, Jing Chen, Chao Shen, Lina Wang   
-*ArXiv Preprint & In Submission, 2022*
+*arXiv Preprint & In Submission, 2022*
 
 
 Other 2 papers regarding IP protection of DL have currently been submitted to CCF-A tier conferences.
