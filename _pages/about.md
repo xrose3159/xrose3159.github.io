@@ -27,9 +27,10 @@ I have won the First Class Scholarship of WHU 2 times (5% school-wide), the HUAN
 
 🌟🌟 I'm currently actively seeking for Ph.D., Research Assistant, or internship positions related to Information Security or AI. If you're interested in working with me, don't hesitate to drop me an email. 
 
-My curriculum vitae can be downloaded [here (in English)](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/Boheng_Li_s_CV.pdf).
+My curriculum vitae can be downloaded [here (in English)](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/Boheng_Li_s_CV.pdf). 
 
 # 🔥 News
+- *2023.07*: One paper is accepted by ICCV 2023.
 - *2023.02*: I was awarded the Huawei Scholarship (54 candidates per year in WHU) by Wuhan University & Huawei Technologies Co., Ltd.
 - *2022.11*: Our team "AntiE" won the **Gold Reward** (national highest award, award rate less than 0.01%) of the 8th China International College Students 'Internet+' Innovation and Entrepreneurship Competition (Chinese: 中国国际“互联网+”大学生创新创业大赛), it's a great honor! Congratulations to my teammates Jiahao Zhou, Tingyu Luo, Xinyue Zhang, Sixing Lin, Tong Zong, Zhuoyuan Wu, Chang Lu, Jie Xiao, Yiqing Li, Hanrui Yao, Weijing Li, and Fan Wang. Thanks to our team's former members Xin Cao and Chong Hu, our advisers Qingxiang Meng, Xiaoliang Meng, Run Wang and Linqing Liu, thanks to Chufeng Wu, Prof. Jun Qian, Prof. Huying Zhang, Mr. Qilin Sun who helped us a lot! Thanks to my mom and dad, thanks to everyone!
 - *2022.10*: Our team "AntiE" enters the national finals of the 8th China International College Students "Internet+" Innovation and Entrepreneurship Competition (Chinese: 中国国际“互联网+”大学生创新创业大赛), see you in Chongqing!
@@ -59,6 +60,10 @@ Jiahao Zhou, **Boheng Li**, Qingxiang Meng
 - [Comprehensive Evaluation of Emergency Shelters in Wuhan City Based on GIS](https://ieeexplore.ieee.org/document/9963810)   
 Tingyu Luo, **Boheng Li**, Jiahao Zhou, Qingxiang Meng   
 *The 29th International Conference on Geoinformatics (CPGIS), 2022*
+
+## AI Security, Privacy, and Intellectual Property (IP) Protection
+- [What can Discriminator do? Towards Box-free Ownership Verification of Generative Adversarial Networks](https://antigonerandy.github.io/)
+Ziheng Huang $^\dagger$, Boheng Li $^\dagger$ , Yan Cai, Run Wang $^*$, Shangwei Guo, Liming Fang, Jing Chen, and Lina Wang *International Conference on Computer Vision (ICCV), 2023*
 
 ## 🖨️ Preprints & In Submission
 - [Free Fine-tuning: A Plug-and-Play Watermarking Scheme for Deep Neural Networks](https://arxiv.org/abs/2210.07809)   
@@ -99,7 +104,7 @@ Other 2 papers regarding IP protection of DL have currently been submitted to CC
 
 ## Academic Services
 
-- Sub-Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
+- Sub-Reviewer, ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), 2023.
 - Sub-Reviewer, AAAI Conference on Artificial Intelligence (AAAI), 2023.
 
 ## Teaching Experiences
