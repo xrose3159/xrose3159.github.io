@@ -39,6 +39,7 @@ My curriculum vitae can be downloaded [here (in English)](https://github.com/Ant
 - *2022.10*: I ranked 1/157 in the 2022 Comprehensive Assessment of the SCSE with a full score in practice and innovation ability (F3). My total score surpasses the second place by 11%.
 - *2022.08*: Our team won the Outstanding Winner Award (highest award) in the 2022 National College Student Surveying and Mapping Discipline Innovation and Entrepreneurship Intelligent Competition Development and Design Competition. Congrats to my teammates Jiahao Zhou, Sixing Lin, and Tingyu Luo.
 - *2022.08*: Our team "AntiE" won the Golden Prize in the 8th China International College Students "Internet+" Innovation and Entrepreneurship Competition, Hubei Province Division (Chinese: 中国国际“互联网+”大学生创新创业大赛), and successfully entered the National Finals.
+
 <!-- - *2022.08*: Our team won the First Prize in the 15th Chinese Collegiate Computing Competition National Finals (4C'2022). Congratulations to my teammates Jiahao Zhou and Sixing Lin.
 - *2022.08*: Our team "AntiE" won the Outstanding Winner Award in the 14th Shenzhen Innovation and Entrepreneurship Competition.
 - *2022.07*: This semester ends with a GPA of 4.0/4.0 and an average score of 95.47/100.
