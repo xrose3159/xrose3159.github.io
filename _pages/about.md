@@ -63,7 +63,7 @@ Tingyu Luo, **Boheng Li**, Jiahao Zhou, Qingxiang Meng
 
 ## 🤖️ AI Security, Privacy, & Intellectual Property (IP) Protection
 - [What can Discriminator do? Towards Box-free Ownership Verification of Generative Adversarial Networks](https://antigonerandy.github.io/)   
-Ziheng Huang$^\dagger$, **Boheng Li$^\dagger$**, Yan Cai, Run Wang $^*$, Shangwei Guo, Liming Fang, Jing Chen, and Lina Wang   
+Ziheng Huang$^\dagger$, **Boheng Li$^\dagger$**, Yan Cai, Run Wang, Shangwei Guo, Liming Fang, Jing Chen, Lina Wang   
 *International Conference on Computer Vision (ICCV), 2023*
 
 ## 🖨️ Preprints & In Submission
