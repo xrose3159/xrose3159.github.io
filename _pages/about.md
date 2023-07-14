@@ -106,6 +106,7 @@ Other 2 papers regarding IP protection of DL have currently been submitted to CC
 
 ## Academic Services
 
+- Reviewer, ACM Multimedia (MM), 2023.
 - Sub-Reviewer, ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), 2023.
 - Sub-Reviewer, AAAI Conference on Artificial Intelligence (AAAI), 2023.
 
