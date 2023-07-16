@@ -72,6 +72,9 @@ Ziheng Huang$^\dagger$, **Boheng Li**$^\dagger$, Yan Cai, Run Wang, Shangwei Guo
 Run Wang, Jixing Ren, **Boheng Li**, Tianyi She, Chenhao Lin, Liming Fang, Jing Chen, Chao Shen, Lina Wang   
 *arXiv Preprint & In Submission, 2022*
 
+- [Dual-level Interaction for Domain Adaptive Semantic Segmentation](https://antigonerandy.github.io/)   
+Dongyu Yao$^\dagger$, **Boheng Li**$^\dagger$, Run Wang, Lina Wang   
+*arXiv Preprint & In Submission, 2023*
 
 Other 2 papers regarding IP protection of DL have currently been submitted to CCF-A tier conferences.
 
