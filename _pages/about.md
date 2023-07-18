@@ -72,7 +72,7 @@ Ziheng Huang$^\dagger$, **Boheng Li**$^\dagger$, Yan Cai, Run Wang, Shangwei Guo
 Run Wang, Jixing Ren, **Boheng Li**, Tianyi She, Chenhao Lin, Liming Fang, Jing Chen, Chao Shen, Lina Wang   
 *arXiv Preprint & In Submission, 2022*
 
-- [Dual-level Interaction for Domain Adaptive Semantic Segmentation](https://antigonerandy.github.io/)   
+- [Dual-level Interaction for Domain Adaptive Semantic Segmentation](https://arxiv.org/abs/2307.07972)   
 Dongyu Yao$^\dagger$, **Boheng Li**$^\dagger$, Run Wang, Lina Wang   
 *arXiv Preprint & In Submission, 2023*
 
