@@ -30,6 +30,7 @@ I have won the First Class Scholarship of WHU 2 times (5% school-wide), the HUAN
 My curriculum vitae can be downloaded [here (in English)](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/Boheng_Li_s_CV.pdf). 
 
 # 🔥 News
+- *2023.07*: One paper is accepted by ACM MM 2023.
 - *2023.07*: One paper is accepted by ICCV 2023.
 - *2023.06*: Invited as a reviewer by ACM MM.
 - *2023.02*: I was awarded the Huawei Scholarship (54 candidates per year in WHU) by Wuhan University & Huawei Technologies Co., Ltd.
@@ -68,10 +69,11 @@ Tingyu Luo, **Boheng Li**, Jiahao Zhou, Qingxiang Meng
 Ziheng Huang$^\dagger$, **Boheng Li**$^\dagger$, Yan Cai, Run Wang, Shangwei Guo, Liming Fang, Jing Chen, Lina Wang   
 *International Conference on Computer Vision (ICCV), 2023*
 
+- [Do We Need Model Fine-tuning? Towards an Efficient and Scalable Watermarking Scheme for Deep Neural Networks](https://arxiv.org/abs/2210.07809)   
+Run Wang, Jixing Ren, **Boheng Li**, Tianyi She, Wenhui Zhang, Liming Fang, Jing Chen, Lina Wang  
+*ACM Multimedia (MM), 2023*
+
 ## 🖨️ Preprints & In Submission
-- [Free Fine-tuning: A Plug-and-Play Watermarking Scheme for Deep Neural Networks](https://arxiv.org/abs/2210.07809)   
-Run Wang, Jixing Ren, **Boheng Li**, Tianyi She, Chenhao Lin, Liming Fang, Jing Chen, Chao Shen, Lina Wang   
-*arXiv Preprint & In Submission, 2022*
 
 - [Dual-level Interaction for Domain Adaptive Semantic Segmentation](https://arxiv.org/abs/2307.07972)   
 Dongyu Yao$^\dagger$, **Boheng Li**$^\dagger$, Run Wang, Lina Wang   
