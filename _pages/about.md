@@ -69,7 +69,7 @@ Tingyu Luo, **Boheng Li**, Jiahao Zhou, Qingxiang Meng
 Ziheng Huang$^\dagger$, **Boheng Li**$^\dagger$, Yan Cai, Run Wang, Shangwei Guo, Liming Fang, Jing Chen, Lina Wang   
 *International Conference on Computer Vision (ICCV), 2023*
 
-- [Do We Need Model Fine-tuning? Towards an Efficient and Scalable Watermarking Scheme for Deep Neural Networks](https://arxiv.org/abs/2210.07809)   
+- [Free Fine-tuning: A Plug-and-Play Watermarking Scheme for Deep Neural Networks](https://arxiv.org/abs/2210.07809)   
 Run Wang, Jixing Ren, **Boheng Li**, Tianyi She, Wenhui Zhang, Liming Fang, Jing Chen, Lina Wang  
 *ACM Multimedia (MM), 2023*
 
