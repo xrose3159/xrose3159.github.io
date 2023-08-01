@@ -27,7 +27,7 @@ I have won the First Class Scholarship of WHU 2 times (5% school-wide), the HUAN
 
 🌟🌟 I'm currently actively seeking for Ph.D., Research Assistant, or internship positions related to Information Security or AI. If you're interested in working with me, don't hesitate to drop me an email. 
 
-My curriculum vitae can be downloaded [here (in English)](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/Boheng_Li_s_CV.pdf). 
+<!-- My curriculum vitae can be downloaded [here (in English)](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/Boheng_Li_s_CV.pdf).  -->
 
 # 🔥 News
 - *2023.07*: One paper is accepted by ACM MM 2023.
@@ -65,7 +65,7 @@ Tingyu Luo, **Boheng Li**, Jiahao Zhou, Qingxiang Meng
 *The 29th International Conference on Geoinformatics (CPGIS), 2022* -->
 
 ## 🤖️ AI Security, Privacy & Intellectual Property (IP) Protection
-- [What can Discriminator do? Towards Box-free Ownership Verification of Generative Adversarial Networks](https://antigonerandy.github.io/)   
+- [What can Discriminator do? Towards Box-free Ownership Verification of Generative Adversarial Networks](https://arxiv.org/abs/2307.15860)   
 Ziheng Huang$^\dagger$, **Boheng Li**$^\dagger$, Yan Cai, Run Wang, Shangwei Guo, Liming Fang, Jing Chen, Lina Wang   
 *International Conference on Computer Vision (ICCV), 2023*
 
