@@ -30,7 +30,7 @@ I have won the First Class Scholarship of WHU 2 times (5% school-wide), the HUAN
 <!-- My curriculum vitae can be downloaded [here (in English)](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/Boheng_Li_s_CV.pdf).  -->
 
 # 🔥 News
-- *2023.07*: One paper is accepted by ICCVW UnCV 2023.
+- *2023.08*: One paper is accepted by ICCVW UnCV 2023.
 - *2023.07*: One paper is accepted by ACM MM 2023.
 - *2023.07*: One paper is accepted by ICCV 2023.
 - *2023.06*: Invited as a reviewer by ACM MM.
