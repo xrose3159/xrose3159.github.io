@@ -30,6 +30,7 @@ I have won the First Class Scholarship of WHU 2 times (5% school-wide), the HUAN
 <!-- My curriculum vitae can be downloaded [here (in English)](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/Boheng_Li_s_CV.pdf).  -->
 
 # 🔥 News
+- *2023.07*: One paper is accepted by ICCVW UnCV 2023.
 - *2023.07*: One paper is accepted by ACM MM 2023.
 - *2023.07*: One paper is accepted by ICCV 2023.
 - *2023.06*: Invited as a reviewer by ACM MM.
@@ -73,13 +74,13 @@ Ziheng Huang$^\dagger$, **Boheng Li**$^\dagger$, Yan Cai, Run Wang, Shangwei Guo
 Run Wang, Jixing Ren, **Boheng Li**, Tianyi She, Wenhui Zhang, Liming Fang, Jing Chen, Lina Wang  
 *ACM Multimedia (MM), 2023*
 
-## 🖨️ Preprints & In Submission
-
 - [Dual-level Interaction for Domain Adaptive Semantic Segmentation](https://arxiv.org/abs/2307.07972)   
-Dongyu Yao$^\dagger$, **Boheng Li**$^\dagger$, Run Wang, Lina Wang   
-*arXiv Preprint & In Submission, 2023*
+Dongyu Yao$^\dagger$, **Boheng Li**$^*$
+*ICCV Workshop on Uncertainty Quantification for Computer Vision, 2023*
+
 
 Other 2 papers regarding IP protection of DL have currently been submitted to CCF-A tier conferences.
+<!-- ## 🖨️ Preprints & In Submission -->
 
 
 # 🏆 Competition Awards
