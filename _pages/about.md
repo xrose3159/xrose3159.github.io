@@ -67,7 +67,7 @@ Tingyu Luo, **Boheng Li**, Jiahao Zhou, Qingxiang Meng
 
 <!-- ## 🤖️ AI Security, Privacy & Intellectual Property (IP) Protection -->
 - [What can Discriminator do? Towards Box-free Ownership Verification of Generative Adversarial Networks](https://arxiv.org/abs/2307.15860)   
-Ziheng Huang$^\dagger$, **Boheng Li$^\dagger$**, Yan Cai, Run Wang, Shangwei Guo, Liming Fang, Jing Chen, Lina Wang   
+Ziheng Huang$^\dagger$, **Boheng Li**$^\dagger$, Yan Cai, Run Wang, Shangwei Guo, Liming Fang, Jing Chen, Lina Wang   
 *International Conference on Computer Vision (ICCV), 2023*
 
 - [Free Fine-tuning: A Plug-and-Play Watermarking Scheme for Deep Neural Networks](https://arxiv.org/abs/2210.07809)   
@@ -75,7 +75,7 @@ Run Wang, Jixing Ren, **Boheng Li**, Tianyi She, Wenhui Zhang, Liming Fang, Jing
 *ACM Multimedia (MM), 2023*
 
 - [Dual-level Interaction for Domain Adaptive Semantic Segmentation](https://arxiv.org/abs/2307.07972)   
-Dongyu Yao, **Boheng Li$^*$**   
+Dongyu Yao, **Boheng Li**$^*$   
 *ICCV Workshop on Uncertainty Quantification for Computer Vision, 2023*
 
 
