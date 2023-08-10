@@ -54,7 +54,7 @@ I have won the First Class Scholarship of WHU 2 times (5% school-wide), the HUAN
 
 # 📝 Publications 
 
-$^\dagger$: equal contribution, $^*$: corresponding author
+$^\dagger$: equal contribution, $^\Letter$: corresponding author
 
 <!-- ## 🛰️ Geoinformatics & Remote Sensing
 - [Optimized Design Method for Satellite Constellation Configuration Based on Real-time Coverage Area Evaluation](https://ieeexplore.ieee.org/document/9963835)   
@@ -75,8 +75,7 @@ Run Wang, Jixing Ren, **Boheng Li**, Tianyi She, Wenhui Zhang, Liming Fang, Jing
 *ACM Multimedia (MM), 2023*
 
 - [Dual-level Interaction for Domain Adaptive Semantic Segmentation](https://arxiv.org/abs/2307.07972)   
-Dongyu Yao, **Boheng Li**$^*$   
-
+Dongyu Yao, **Boheng Li**$^\Letter$   
 *ICCV Workshop on Uncertainty Quantification for Computer Vision (UnCV), 2023*
 
 
