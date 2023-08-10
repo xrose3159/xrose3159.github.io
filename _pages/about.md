@@ -76,7 +76,7 @@ Run Wang, Jixing Ren, **Boheng Li**, Tianyi She, Wenhui Zhang, Liming Fang, Jing
 
 - [Dual-level Interaction for Domain Adaptive Semantic Segmentation](https://arxiv.org/abs/2307.07972)   
 Dongyu Yao, **Boheng Li**$^*$   
-*ICCV Workshop on Uncertainty Quantification for Computer Vision, 2023*
+*ICCV Workshop on Uncertainty Quantification for Computer Vision (UnCV), 2023*
 
 
 Other 2 papers regarding IP protection of DL have currently been submitted to CCF-A tier conferences.
