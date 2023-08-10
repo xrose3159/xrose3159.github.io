@@ -75,7 +75,7 @@ Run Wang, Jixing Ren, **Boheng Li**, Tianyi She, Wenhui Zhang, Liming Fang, Jing
 *ACM Multimedia (MM), 2023*
 
 - [Dual-level Interaction for Domain Adaptive Semantic Segmentation](https://arxiv.org/abs/2307.07972)   
-Dongyu Yao, **Boheng Li**$^\Letter$   
+Dongyu Yao, **Boheng Li**$^\*$   
 *ICCV Workshop on Uncertainty Quantification for Computer Vision (UnCV), 2023*
 
 
