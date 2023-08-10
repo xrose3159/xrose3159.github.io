@@ -54,7 +54,7 @@ I have won the First Class Scholarship of WHU 2 times (5% school-wide), the HUAN
 
 # 📝 Publications 
 
-$^\dagger$: equal contribution, $^\Letter$: corresponding author
+$^\dagger$: equal contribution, $^*$: corresponding author
 
 <!-- ## 🛰️ Geoinformatics & Remote Sensing
 - [Optimized Design Method for Satellite Constellation Configuration Based on Real-time Coverage Area Evaluation](https://ieeexplore.ieee.org/document/9963835)   
