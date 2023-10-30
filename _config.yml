@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yijie Lu's Homepage"
 description              : "Undergraduate student at Wuhan University."
-repository               : "1NormalGuy/1NormalGuy.github.io"
+repository               : "https://github.com/1NormalGuy/1NormalGuy.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Boheng Li (李勃衡)"
+  name             : "Yijie Lu(陆一杰)"
   avatar           : "avatar.png"
   bio              : "Wuhan University"
   location         : "Wuhan, Hubei, China"
