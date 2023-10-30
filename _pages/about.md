@@ -42,7 +42,7 @@ I look forward to connecting and communicating with more people, if you are inte
 - **Excellence Award.** The 9th Zero Cup Web Design Competition. *2022.11*
 
 # 🎖 Scholarships and Honors
-- *2023.10* **Lei Jun Computer Science Undergraduate Scholarship** (Award Rate: 54/59774=0.1%) *Wuhan University & Xiao Mi Technologies Co., Ltd.*
+- *2023.10* **Lei Jun Computer Science Undergraduate Scholarship** (Award Rate: 60/59774=0.1%) *Wuhan University & Xiao Mi Technologies Co., Ltd.*
 - *2023.10* **Merit Student**  (Award Rate: 10% school-wide) *Wuhan University*  
 - *2023.10* **First Class Scholarship of WHU** (Award Rate: 5% school-wide) *Wuhan University* 
 
