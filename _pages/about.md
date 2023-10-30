@@ -35,7 +35,7 @@ I look forward to connecting and communicating with more people, if you are inte
 *前面的世界，以后再来探索吧*
 
 # 🏆 Competition Awards
-- **Second Prize.** National University Business Elite Challenge Innovation and Entrepreneurship Competition Entrepreneurship Plan Track.*2022.11*
+- **Second Prize.** National University Business Elite Challenge Innovation and Entrepreneurship Competition Entrepreneurship Plan Track.*2023.10*
 - **Third Prize.** China College Student Computer Design Competition (Central and South Region) (Digital Media Technology  Track). *2023.06*
 - **Third Prize.** China College Student Computer Design Competition (Central and South Region) (Artificial Intelligence Track). *2023.06*
 - **Forth Prize.** CTF Freshman Team Competition. *2022.11*
