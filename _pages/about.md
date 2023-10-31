@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome!!!😘😘😘
 
-I'm Yijie Lu(陆一杰).I'm presently a sophomore undergraduate studying Cyberspace security for my B.E. at [Cyber Science and Engineering (SCSE)](https://cse.whu.edu.cn/index.htm),[Wuhan University(WHU)](https://www.whu.edu.cn/).
+I'm **Yijie Lu**(陆一杰)🐕.I'm presently a sophomore undergraduate studying Cyberspace security for my B.E. at [Cyber Science and Engineering (SCSE)](https://cse.whu.edu.cn/index.htm),[Wuhan University(WHU)](https://www.whu.edu.cn/).
 
 I'm applying to work as a scientific research assistant at Prof. [Run Wang's](http://wangrun.github.io/) lab since I'm really interested in AI security. I'm eager to observe the outcomes of my next investigations and studies.
 
@@ -44,7 +44,7 @@ I look forward to connecting and communicating with more people, if you are inte
 - **Excellence Award.** The 9th Zero Cup Web Design Competition. *2022.11*
 
 # 🎖 Scholarships and Honors
-- *2023.10* **Lei Jun Computer Science Undergraduate Scholarship** (Award Rate: 60/59774=0.1%) *Wuhan University & Xiao Mi Technologies Co., Ltd.*
+- *2023.10* **Lei Jun Computer Science Undergraduate Scholarship** (Award Rate: 20/1213=1.6%) *Wuhan University & Xiao Mi Technologies Co., Ltd.*
 - *2023.10* **Merit Student**  (Award Rate: 10% school-wide) *Wuhan University*  
 - *2023.10* **First Class Scholarship of WHU** (Award Rate: 5% school-wide) *Wuhan University* 
 
@@ -64,7 +64,7 @@ I look forward to connecting and communicating with more people, if you are inte
 -->
 
 # 🔗 Useful Links
-##  📚 Courses
+##  🤖 Courses
 
 - *[高等数学-兆筱小分队](https://www.bilibili.com/video/BV1dJ411c7ab/?spm_id_from=333.788&vd_source=a8a064bcbd088bc6388119f018c52df7)*
 
@@ -85,6 +85,16 @@ I look forward to connecting and communicating with more people, if you are inte
 - *[Python最佳实践指南](http://itpcb.com/docs/pythonguide/)*
 
 - *[Pytorch入门教程-小土堆](https://www.bilibili.com/video/BV1hE411t7RN/?spm_id_from=333.999.0.0&vd_source=a8a064bcbd088bc6388119f018c52df7)*
+
+## 🧭 Examination Guide
+
+-  *[网安导论知识点总结](https://github.com/1NormalGuy/1normalguy.github.io/raw/main/docs/dl.pdf)*
+
+- *[指针数组 & 数组指针 & 二级指针 辨析](https://github.com/1NormalGuy/1normalguy.github.io/raw/main/docs/points.pdf)*
+
+## 📚 Textbook
+
+At present, I have no time to upload the textbooks. If you need Cyberspace security textbook e-books, please send me an email ( attach the grade, class and name).
 
 
 <!--
