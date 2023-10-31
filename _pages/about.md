@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my blog!!!😘😘😘
+Welcome!!!😘😘😘
 
 I'm Yijie Lu(陆一杰).I'm presently a sophomore undergraduate studying Cyberspace security for my B.E. at [Cyber Science and Engineering (SCSE)](https://cse.whu.edu.cn/index.htm),[Wuhan University(WHU)](https://www.whu.edu.cn/).
 
-I am very interested in AI security, so I am applying to join Prof.[Run Wang](http://wangrun.github.io/)'s lab for scientific research. I look forward to seeing results in my future research and studies.
+I'm applying to work as a scientific research assistant at Prof. [Run Wang's](http://wangrun.github.io/) lab since I'm really interested in AI security. I'm eager to observe the outcomes of my next investigations and studies.
 
-I am very happy to have met a lot of excellent seniors in the past year, especially **Yichen Luo, Yuxin Wu, and Boheng Li**, and I feel very lucky to be able to meet them.They have taught me a lot, so I am willing to do my best to give guidance and advice to the younger.😄
+I feel really fortunate to have had the opportunity to meet so many exceptional seniors over the last year, including **Yichen Luo, Yuxin Wu, and Boheng Li**.I've learned a lot from them, therefore I'm prepared to try my hardest to mentor and counsel the younger.😄
 
 Over the past year,I have won the **First Class Scholarship of WHU** (5% school-wide), the **Lei Jun Computer Science Undergraduate Scholarship** (60 candidates per year in WHU).
 
@@ -58,6 +58,29 @@ I look forward to connecting and communicating with more people, if you are inte
 *前面的世界，以后再来探索吧*
 ## Invited talks (Selected)
 *前面的世界，以后再来探索吧*
+
+# 🔗 Useful Links
+##  📚 Courses
+
+- *[高等数学-兆筱小分队](https://www.bilibili.com/video/BV1dJ411c7ab/?spm_id_from=333.788&vd_source=a8a064bcbd088bc6388119f018c52df7)*
+
+- *[线性代数-limite](https://www.bilibili.com/video/BV1L7411a7Rz/?spm_id_from=333.999.0.0&vd_source=a8a064bcbd088bc6388119f018c52df7)*
+
+- *[Essence of linear algebra](https://www.bilibili.com/video/BV1ys411472E/?spm_id_from=333.999.0.0&vd_source=a8a064bcbd088bc6388119f018c52df7)*
+
+- *[Linear Algebra](https://www.youtube.com/watch?v=uUrt8xgdMbs&list=PLJV_el3uVTsNmr39gwbyV-0KjULUsN7fW)*
+
+- *[汇编语言(王爽)](https://www.bilibili.com/video/BV1Wu411B72F/?spm_id_from=333.999.0.0&vd_source=a8a064bcbd088bc6388119f018c52df7)*
+  
+- *[CS231n Deep Learning for Computer Vision](http://cs231n.stanford.edu/)*
+
+## 💻 Coding Skills
+
+- *[GIT-菜鸟教程](https://www.runoob.com/git/git-tutorial.html)*
+
+- *[Python最佳实践指南](http://itpcb.com/docs/pythonguide/)*
+
+- *[Pytorch入门教程-小土堆](https://www.bilibili.com/video/BV1hE411t7RN/?spm_id_from=333.999.0.0&vd_source=a8a064bcbd088bc6388119f018c52df7)*
 
 
 <!--
