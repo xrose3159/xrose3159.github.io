@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yijie Lu(陆一杰)"
-  avatar           : "lu.png"
+  avatar           : "images/lu.png"
   bio              : "Wuhan University"
   location         : "Wuhan, Hubei, China"
   employer         :
