@@ -29,10 +29,12 @@ Over the past year,I have won the **First Class Scholarship of WHU** (5% school-
 
 I look forward to connecting and communicating with more people, if you are interested in me, please drop me an email!☀️
 
+<!--
 # 🔥 News
 *前面的世界，以后再来探索吧*
 # 📝 Publications 
 *前面的世界，以后再来探索吧*
+-->
 
 # 🏆 Competition Awards
 - **Second Prize.** National University Business Elite Challenge Innovation and Entrepreneurship Competition Entrepreneurship Plan Track.*2023.10*
@@ -52,12 +54,14 @@ I look forward to connecting and communicating with more people, if you are inte
 - *2019.09 - 2022.06*, Senior Middle School, Yongzhou No. 4 Middle School, China.
 - *2016.09 - 2019.06*, Junior Middle School, Dong'an Chengjiang Experimental Middle School, China.
 
+<!--
 # 🎡 Activities
 
 ## Academic Services
 *前面的世界，以后再来探索吧*
 ## Invited talks (Selected)
 *前面的世界，以后再来探索吧*
+-->
 
 # 🔗 Useful Links
 ##  📚 Courses
