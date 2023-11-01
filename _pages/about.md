@@ -23,7 +23,7 @@ I'm **Yijie Lu**(陆一杰)🐕.I'm presently a sophomore undergraduate studying
 
 I'm applying to work as a scientific research assistant at Prof. [Run Wang's](http://wangrun.github.io/) lab since I'm really interested in AI security. I'm eager to observe the outcomes of my next investigations and studies.
 
-I feel really fortunate to have had the opportunity to meet so many exceptional seniors over the last year, including **Yichen Luo, Yuxin Wu, and Boheng Li**.I've learned a lot from them, therefore I'm prepared to try my hardest to mentor and counsel the younger.😄
+I feel really fortunate to have had the opportunity to meet so many exceptional seniors over the last year, specially**Yichen Luo, Yuxin Wu, and Boheng Li**.I've learned a lot from them, therefore I'm prepared to try my hardest to mentor and counsel the younger.😄
 
 Over the past year,I have won the **First Class Scholarship of WHU** (5% school-wide), the **Lei Jun Computer Science Undergraduate Scholarship** (60 candidates per year in WHU).
 
@@ -75,7 +75,9 @@ I look forward to connecting and communicating with more people, if you are inte
 - *[Linear Algebra](https://www.youtube.com/watch?v=uUrt8xgdMbs&list=PLJV_el3uVTsNmr39gwbyV-0KjULUsN7fW)*
 
 - *[汇编语言(王爽)](https://www.bilibili.com/video/BV1Wu411B72F/?spm_id_from=333.999.0.0&vd_source=a8a064bcbd088bc6388119f018c52df7)*
-  
+
+- *[c语言程序设计-翁凯](https://www.icourse163.org/spoc/course/zju-121004?tid=150003#/info)*
+
 - *[CS231n Deep Learning for Computer Vision](http://cs231n.stanford.edu/)*
 
 ## 💻 Coding Skills
@@ -86,15 +88,15 @@ I look forward to connecting and communicating with more people, if you are inte
 
 - *[Pytorch入门教程-小土堆](https://www.bilibili.com/video/BV1hE411t7RN/?spm_id_from=333.999.0.0&vd_source=a8a064bcbd088bc6388119f018c52df7)*
 
-## 🧭 Examination Guide
+## 🧭 Examination Guides
 
 -  *[网安导论知识点总结](https://github.com/1NormalGuy/1normalguy.github.io/raw/main/docs/dl.pdf)*
 
 - *[指针数组 & 数组指针 & 二级指针 辨析](https://github.com/1NormalGuy/1normalguy.github.io/raw/main/docs/points.pdf)*
 
-## 📚 Textbook
+## 📚 Textbooks
 
-At present, I have no time to upload the textbooks. If you need Cyberspace security textbook e-books, please send me an email ( attach the grade, class and name).
+At present, I have no time to upload the textbooks. If you need Cyberspace security textbook e-books, please send me an email (of course you need attach your grade, class and name).
 
 
 <!--
