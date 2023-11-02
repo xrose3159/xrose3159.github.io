@@ -23,7 +23,7 @@ I'm **Yijie Lu**(陆一杰)🐕.I'm presently a sophomore undergraduate studying
 
 I'm applying to work as a scientific research assistant at Prof. [Run Wang's](http://wangrun.github.io/) lab since I'm really interested in AI security. I'm eager to observe the outcomes of my next investigations and studies.
 
-I feel really fortunate to have had the opportunity to meet so many exceptional seniors over the last year, specially**Yichen Luo, Yuxin Wu, and Boheng Li**.I've learned a lot from them, therefore I'm prepared to try my hardest to mentor and counsel the younger.😄
+I feel really fortunate to have had the opportunity to meet so many exceptional seniors over the last year, specially **Yichen Luo, Yuxin Wu, and Boheng Li**.I've learned a lot from them, therefore I'm prepared to try my hardest to mentor and counsel the younger.😄
 
 Over the past year,I have won the **First Class Scholarship of WHU** (5% school-wide), the **Lei Jun Computer Science Undergraduate Scholarship** (60 candidates per year in WHU).
 
@@ -37,6 +37,7 @@ I look forward to connecting and communicating with more people, if you are inte
 -->
 
 # 🏆 Competition Awards
+- **Third Prize** 2023 "Foreign Language Research Society, National Talent Cup" and "Understanding Contemporary China" National College Student Foreign Language Proficiency Competition.*2023.10*
 - **Second Prize.** National University Business Elite Challenge Innovation and Entrepreneurship Competition Entrepreneurship Plan Track.*2023.10*
 - **Third Prize.** China College Student Computer Design Competition (Central and South Region) (Digital Media Technology  Track). *2023.06*
 - **Third Prize.** China College Student Computer Design Competition (Central and South Region) (Artificial Intelligence Track). *2023.06*
@@ -90,13 +91,18 @@ I look forward to connecting and communicating with more people, if you are inte
 
 ## 🧭 Examination Guides
 
+At present, I have no time to upload all the examination guides. If you need more Cyberspace security textbook examination guides, please send me an email (of course you need attach your grade, class and name).
+
 -  *[网安导论知识点总结](https://github.com/1NormalGuy/1normalguy.github.io/raw/main/docs/dl.pdf)*
 
 - *[指针数组 & 数组指针 & 二级指针 辨析](https://github.com/1NormalGuy/1normalguy.github.io/raw/main/docs/points.pdf)*
 
 ## 📚 Textbooks
 
-At present, I have no time to upload the textbooks. If you need Cyberspace security textbook e-books, please send me an email (of course you need attach your grade, class and name).
+At present, I have no time to upload all the textbooks. If you need more Cyberspace security textbook e-books, please send me an email (of course you need attach your grade, class and name).
+
+- *[高等数学（下）-武汉大学](https://github.com/1NormalGuy/1normalguy.github.io/raw/main/docs\高等数学(上).pdf)*
+
 
 
 <!--
