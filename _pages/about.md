@@ -30,9 +30,9 @@ Over the past year,I have won the **First Class Scholarship of WHU** (5% school-
 I look forward to connecting and communicating with more people, if you are interested in me, please drop me an email!☀️
 
 
-
-<!--# 🔥 News
+# 🔥 News
 - *2023.10* :I won the Lei Jun Computer Science Undergraduate Scholarship. 
+<!--
 # 📝 Publications 
 *前面的世界，以后再来探索吧*
 -->
