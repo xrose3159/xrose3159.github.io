@@ -30,10 +30,10 @@ Over the past year,I have won the **First Class Scholarship of WHU** (5% school-
 I look forward to connecting and communicating with more people, if you are interested in me, please drop me an email!☀️
 
 
-# 🔥 News
-- *2023.10*:I won the Lei Jun Computer Science Undergraduate Scholarship. 
 
-<!--# 📝 Publications 
+<!--# 🔥 News
+- *2023.10* :I won the Lei Jun Computer Science Undergraduate Scholarship. 
+# 📝 Publications 
 *前面的世界，以后再来探索吧*
 -->
 
@@ -92,7 +92,7 @@ I look forward to connecting and communicating with more people, if you are inte
 
 ## 🧭 Examination or Study Guides
 
-At present, I have no time to upload all the  guides. If you need more, please send me an email (of course you need attach your grade, class and name).
+At present, I have no time to upload all the guides. If you need more, please send me an email (of course you need attach your grade, class and name).
 
 -  *[网安导论知识点总结](https://github.com/1NormalGuy/1normalguy.github.io/raw/main/docs/dl.pdf)*
 
