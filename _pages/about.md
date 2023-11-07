@@ -32,6 +32,9 @@ I look forward to connecting and communicating with more people, if you are inte
 
 # 🔥 News
 - *2023.10* :I won the Lei Jun Computer Science Undergraduate Scholarship. 
+
+
+
 <!--
 # 📝 Publications 
 *前面的世界，以后再来探索吧*
@@ -99,6 +102,8 @@ At present, I have no time to upload all the guides. If you need more, please se
 - *[指针数组 & 数组指针 & 二级指针 辨析](https://github.com/1NormalGuy/1normalguy.github.io/raw/main/docs/points.pdf)*
 
 - *[2023年（2024届）网安院保研打分细则](https://github.com/1NormalGuy/1normalguy.github.io/raw/main/docs/2023baoyan.pdf)*
+
+- *[武汉大学毕业论文&实验报告latex模版-overleaf](https://cn.overleaf.com/latex/templates/tagged/whu)*
 
 ## 📚 Textbooks
 
