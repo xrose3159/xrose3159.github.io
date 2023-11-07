@@ -33,12 +33,9 @@ I look forward to connecting and communicating with more people, if you are inte
 # 🔥 News
 - *2023.10* :I won the Lei Jun Computer Science Undergraduate Scholarship. 
 
-
-
-<!--
 # 📝 Publications 
 *前面的世界，以后再来探索吧*
--->
+
 
 # 🏆 Competition Awards
 - **Third Prize.** 2023 "Foreign Language Research Society, National Talent Cup" and "Understanding Contemporary China" National College Student Foreign Language Proficiency Competition.*2023.10*

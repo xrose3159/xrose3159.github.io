@@ -6,8 +6,8 @@ main:
   - title: "News"
    url: "/#-news"
 
-  #- title: "Publications"
-  #  url: "/#-publications"
+  - title: "Publications"
+   url: "/#-publications"
 
   - title: "Competition Awards"
     url: "/#-competition-awards"
@@ -23,5 +23,6 @@ main:
 
   - title: "Useful Links"
     url: "/#-useful-links"
+
   # - title: "Internships"
   #   url: "/#-internships"
