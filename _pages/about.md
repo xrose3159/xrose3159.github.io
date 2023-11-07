@@ -58,7 +58,6 @@ I look forward to connecting and communicating with more people, if you are inte
 
 <!--
 # 🎡 Activities
-
 ## Academic Services
 *前面的世界，以后再来探索吧*
 ## Invited talks (Selected)
@@ -66,7 +65,7 @@ I look forward to connecting and communicating with more people, if you are inte
 -->
 
 # 🔗 Useful Links
-##  🤖 Courses
+##  🤖 Course Recommendations
 
 - *[高等数学-兆筱小分队](https://www.bilibili.com/video/BV1dJ411c7ab/?spm_id_from=333.788&vd_source=a8a064bcbd088bc6388119f018c52df7)*
 
