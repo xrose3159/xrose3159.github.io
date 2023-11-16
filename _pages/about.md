@@ -23,7 +23,7 @@ I'm **Yijie Lu**(陆一杰)🐕.I'm presently a sophomore undergraduate studying
 
 I'm applying to work as a scientific research assistant at Prof. [Run Wang's](http://wangrun.github.io/) lab since I'm really interested in AI security. I'm eager to observe the outcomes of my next investigations and studies.
 
-I feel really fortunate to have had the opportunity to meet so many exceptional seniors over the last year, specially **Yichen Luo, Yuxin Wu, and Boheng Li**.I've learned a lot from them, therefore I'm prepared to try my hardest to mentor and counsel the younger.😄
+I feel really fortunate to have had the opportunity to meet so many exceptional seniors over the last year, especially **Yichen Luo, Yuxin Wu, and Boheng Li**.I've learned a lot from them, therefore I'm prepared to try my hardest to mentor and counsel the younger.😄
 
 Over the past year,I have won the **First Class Scholarship of WHU** (5% school-wide), the **Lei Jun Computer Science Undergraduate Scholarship** (60 candidates per year in WHU).
 
