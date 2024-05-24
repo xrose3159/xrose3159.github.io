@@ -21,7 +21,7 @@ Welcome!!!😘😘😘
 
 I'm **Yijie Lu**(陆一杰)🐕.I'm presently a sophomore undergraduate studying Cyberspace security for my B.E. at [Cyber Science and Engineering (SCSE)](https://cse.whu.edu.cn/index.htm),[Wuhan University(WHU)](https://www.whu.edu.cn/).
 
-I'm applying to work as a scientific research assistant at Prof. [Run Wang's](http://wangrun.github.io/) lab since I'm really interested in AI security. I'm eager to observe the outcomes of my next investigations and studies.
+Since I am interested in intellectual property law, I am actively looking for opportunities to study for a Master of Laws.
 
 I feel really fortunate to have had the opportunity to meet so many exceptional seniors over the last year, especially **Siqi Zhu,Yichen Luo, Yuxin Wu, and Boheng Li**.I've learned a lot from them, therefore I'm prepared to try my hardest to mentor and counsel the younger.😄
 
@@ -29,9 +29,10 @@ Over the past year,I have won the **First Class Scholarship of WHU** (5% school-
 
 I look forward to connecting and communicating with more people, if you are interested in me, please drop me an email!☀️
 
-
+<!--
 # 🔥 News
 - *2023.10* :I won the Lei Jun Computer Science Undergraduate Scholarship.
+-->
 
 <!--
 # 📝 Publications 
@@ -39,6 +40,11 @@ I look forward to connecting and communicating with more people, if you are inte
 -->
 
 # 🏆 Competition Awards
+- **Second Prize.** China College Student Computer Design Competition (Central and South Region) (Digital Media Technology  Track). *2024.05*
+- **Third Prize.** China College Student Computer Design Competition (Central and South Region) (Digital Media Technology  Track). *2024.05*
+- **Second Prize.** LanQiao Cup：Digital Technology Innovation Competition-Team Competition. *2024.05*
+- **Third Prize.** College Student Mathematical Modeling Competition-Huazhong Cup. *2024.05*
+- **Second Prize.** China College Student Computer Design Competition (Central and South Region) (Digital Media Technology  Track). *2024.06*
 - **Third Prize.** 2023 "Foreign Language Research Society, National Talent Cup" and "Understanding Contemporary China" National College Student Foreign Language Proficiency Competition.*2023.10*
 - **Second Prize.** National University Business Elite Challenge Innovation and Entrepreneurship Competition Entrepreneurship Plan Track.*2023.10*
 - **Third Prize.** China College Student Computer Design Competition (Central and South Region) (Digital Media Technology  Track). *2023.06*
