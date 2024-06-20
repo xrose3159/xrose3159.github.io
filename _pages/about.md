@@ -40,6 +40,7 @@ I look forward to connecting and communicating with more people, if you are inte
 -->
 
 # 🏆 Competition Awards
+- **Third Prize.** RAICOM CAIA Competition: Hubei Provincial Division. *2024.06*
 - **Second Prize.** China College Student Computer Design Competition (Central and South Region) (Digital Media Technology  Track). *2024.05*
 - **Third Prize.** China College Student Computer Design Competition (Central and South Region) (Digital Media Technology  Track). *2024.05*
 - **Second Prize.** LanQiao Cup：Digital Technology Innovation Competition-Team Competition. *2024.05*
@@ -70,6 +71,7 @@ I look forward to connecting and communicating with more people, if you are inte
 *前面的世界，以后再来探索吧*
 -->
 
+<!--
 # 🔗 Useful Links
 ##  🤖 Course Recommendations
 
@@ -106,6 +108,8 @@ At present, I have no time to upload all the guides. If you need more, please se
 - *[2023年（2024届）网安院保研打分细则](https://github.com/1NormalGuy/1normalguy.github.io/raw/main/docs/2023baoyan.pdf)*
 
 - *[武汉大学毕业论文&实验报告latex模版-overleaf](https://cn.overleaf.com/latex/templates/tagged/whu)*
+
+-->
 
 <!--## 📚 Textbooks
 
