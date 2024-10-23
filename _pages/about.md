@@ -19,7 +19,7 @@ redirect_from:
 
 Hello, curious mind!🙌
 
-I'm **Xiaoran Shang**(尚萧然).I'm presently a third-year undergraduate student studying Cyberspace security for my B.E. at [Cyber Science and Engineering (SCSE)](https://cse.whu.edu.cn/index.htm),[Wuhan University(WHU)](https://www.whu.edu.cn/).
+I'm **Xiaoran Shang**(尚萧然).I'm presently a third-year undergraduate student studying Information security for my B.E. at [Cyber Science and Engineering (SCSE)](https://cse.whu.edu.cn/index.htm),[Wuhan University(WHU)](https://www.whu.edu.cn/).
 
 I am very fortunate to be advised by [Prof.Wang](https://wangrun.github.io/) of AISec Lab from [School of SCSE](https://cs.pku.edu.cn/), Wuhan University.I have a strong interest in AI security research, particularly in backdoor attacks and vulnerability analysis of large language models (LLMs). I hope to have the opportunity to pursue a Ph.D. in AI security in the future, and I am determined to work hard towards that goal.
 
