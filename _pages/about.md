@@ -62,7 +62,7 @@ In my personal life, I enjoy fitness, basketball, and hiking. If you're interest
 
 
 # 📖 Educations
-- *2022.08 - Now*, Undergraduate, School of Cyber Science and Engineering, Wuhan University, China. Majoring in Cyberspace Security. 
+- *2022.08 - Now*, Undergraduate, School of Cyber Science and Engineering, Wuhan University, China. Majoring in Information Security. 
 - *2019.09 - 2022.06*, Senior Middle School, The High School Attached to Northeast Normal University, Changchun,China.
 - *2016.09 - 2019.06*, Junior Middle School, Changchun No. 48 Middle School, Changchun,China.
 
