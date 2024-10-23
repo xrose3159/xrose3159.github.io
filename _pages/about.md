@@ -25,7 +25,7 @@ I am very fortunate to be advised by [Prof.Wang](https://wangrun.github.io/) of 
 
 In the past two years, I have been awarded the National Encouragement Scholarship (5,000 RMB), the First-Class Scholarship of Wuhan University (top 5%), and the Lei Jun Computer Innovation and Development Fund (1,000 RMB).
 
-In my personal life, I enjoy fitness, basketball, and hiking. If you're interested in connecting with me, feel free to reach out through any means!☀️
+In my personal life, I enjoy fitness🏋️‍♂️, basketball⛹️, and hiking🧗‍♂️. If you're interested in connecting with me, feel free to reach out through any means!☀️
 
 <!--
 # 🔥 News
