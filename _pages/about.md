@@ -17,17 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome!!!😘😘😘
+Hello, curious mind!🙌
 
-I'm **Yijie Lu**(陆一杰)🐕.I'm presently a sophomore undergraduate studying Cyberspace security for my B.E. at [Cyber Science and Engineering (SCSE)](https://cse.whu.edu.cn/index.htm),[Wuhan University(WHU)](https://www.whu.edu.cn/).
+I'm **Xiaoran Shang**(尚萧然).I'm presently a third-year undergraduate student studying Cyberspace security for my B.E. at [Cyber Science and Engineering (SCSE)](https://cse.whu.edu.cn/index.htm),[Wuhan University(WHU)](https://www.whu.edu.cn/).
 
-Since I am interested in intellectual property law, I am actively looking for opportunities to study for a Master of Laws.
+I have a strong interest in AI security research, particularly in backdoor attacks and vulnerability analysis of large language models (LLMs). I hope to have the opportunity to pursue a Ph.D. in AI security in the future, and I am determined to work hard towards that goal.
 
-I feel really fortunate to have had the opportunity to meet so many exceptional seniors over the last year, especially **Siqi Zhu,Yichen Luo, Yuxin Wu, and Boheng Li**.I've learned a lot from them, therefore I'm prepared to try my hardest to mentor and counsel the younger.😄
+In the past two years, I have been awarded the National Encouragement Scholarship (5,000 RMB), the First-Class Scholarship of Wuhan University (top 5%), and the Lei Jun Computer Innovation and Development Fund (1,000 RMB).
 
-Over the past year,I have won the **First Class Scholarship of WHU** (5% school-wide), the **Lei Jun Computer Science Undergraduate Scholarship** (60 candidates per year in WHU).
-
-I look forward to connecting and communicating with more people, if you are interested in me, please drop me an email!☀️
+In my personal life, I enjoy fitness, basketball, and hiking. If you're interested in connecting with me, feel free to reach out through any means!☀️
 
 <!--
 # 🔥 News
@@ -40,28 +38,32 @@ I look forward to connecting and communicating with more people, if you are inte
 -->
 
 # 🏆 Competition Awards
-- **Third Prize.** RAICOM CAIA Competition: Hubei Provincial Division. *2024.06*
-- **Second Prize.** China College Student Computer Design Competition (Central and South Region) (Digital Media Technology  Track). *2024.05*
-- **Third Prize.** China College Student Computer Design Competition (Central and South Region) (Digital Media Technology  Track). *2024.05*
-- **Second Prize.** LanQiao Cup：Digital Technology Innovation Competition-Team Competition. *2024.05*
-- **Third Prize.** College Student Mathematical Modeling Competition-Huazhong Cup. *2024.05*
-- **Third Prize.** 2023 "Foreign Language Research Society, National Talent Cup" and "Understanding Contemporary China" National College Student Foreign Language Proficiency Competition.*2023.10*
-- **Second Prize.** National University Business Elite Challenge Innovation and Entrepreneurship Competition Entrepreneurship Plan Track.*2023.10*
-- **Third Prize.** China College Student Computer Design Competition (Central and South Region) (Digital Media Technology  Track). *2023.06*
-- **Third Prize.** China College Student Computer Design Competition (Central and South Region) (Artificial Intelligence Track). *2023.06*
-- **Forth Prize.** CTF Freshman Team Competition. *2022.11*
-- **Excellence Award.** The 9th Zero Cup Web Design Competition. *2022.11*
+
+- **Honorable Mention.** Mathematical Contest in Modeling (MCM). *2024.5*
+- **First Prize.**Huazhong Cup College Student Mathematical Modeling Challenge. *2024.5*
+- **Silver Medal.** China International College Students Innovation Competition:: Hubei Provincial Division. *2024.8*
+- **Third Prize.** Hubei Provincial College Student Mathematics Competition. *2023.12*
+- **Third Prize.** China College Student Computer Design Competition(Central and South Region). *2024.5*
+- **First Prize.** Wuhan University Information Security Competition. *2024.8*
+- **First Prize.** Wuhan University Offensive and Defensive Cybersecurity Drill. *2024.6*
+- **Second Prize.**Wuhan University College Students Innovation and Entrepreneurship Competition in Surveying and Mapping. *2024.6*
+
+
+
 
 # 🎖 Scholarships and Honors
-- *2023.10* **Lei Jun Computer Science Undergraduate Scholarship** (Award Rate: 20/1213=1.6%) *Wuhan University & Xiao Mi Technologies Co., Ltd.*
-- *2023.10* **Merit Student**  (Award Rate: 10% school-wide) *Wuhan University*  
-- *2023.10* **First Class Scholarship of WHU** (Award Rate: 5% school-wide) *Wuhan University* 
+- *2023.10* **National Encouragement Scholarship**  *The Central Government of China*
+- *2024.6* **Lei Jun Computer Innovation and Development Fund**  *Wuhan University & Xiao Mi Technologies Co., Ltd.*
+- *2023.10* **Merit Student**  (Award Rate: 10% school-wide) *Wuhan University*
+- *2024.10* **Merit Student**  (Award Rate: 10% school-wide) *Wuhan University*
+- *2024.10* **Second Class Scholarship of WHU** (Award Rate: 15% school-wide) *Wuhan University* 
+- *2024.10* **First Class Scholarship of WHU** (Award Rate: 5% school-wide) *Wuhan University* 
 
 
 # 📖 Educations
 - *2022.08 - Now*, Undergraduate, School of Cyber Science and Engineering, Wuhan University, China. Majoring in Cyberspace Security. 
-- *2019.09 - 2022.06*, Senior Middle School, Yongzhou No. 4 Middle School, China.
-- *2016.09 - 2019.06*, Junior Middle School, Dong'an Chengjiang Experimental Middle School, China.
+- *2019.09 - 2022.06*, Senior Middle School, The High School Attached to Northeast Normal University, Changchun,China.
+- *2016.09 - 2019.06*, Junior Middle School, Changchun No. 48 Middle School, Changchun,China.
 
 <!--
 # 🎡 Activities
