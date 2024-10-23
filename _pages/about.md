@@ -56,8 +56,9 @@ In my personal life, I enjoy fitness, basketball, and hiking. If you're interest
 - *2024.6* **Lei Jun Computer Innovation and Development Fund**  *Wuhan University & Xiao Mi Technologies Co., Ltd.*
 - *2023.10* **Merit Student**  (Award Rate: 10% school-wide) *Wuhan University*
 - *2024.10* **Merit Student**  (Award Rate: 10% school-wide) *Wuhan University*
-- *2024.10* **Second Class Scholarship of WHU** (Award Rate: 15% school-wide) *Wuhan University* 
 - *2024.10* **First Class Scholarship of WHU** (Award Rate: 5% school-wide) *Wuhan University* 
+- *2023.10* **Second Class Scholarship of WHU** (Award Rate: 15% school-wide) *Wuhan University* 
+
 
 
 # 📖 Educations
