@@ -23,7 +23,7 @@ I'm **Xiaoran Shang**(尚萧然).I'm presently a third-year undergraduate studen
 
 I am very fortunate to be advised by [Prof.Wang](https://wangrun.github.io/) of AISec Lab from [School of SCSE](https://cse.whu.edu.cn/), Wuhan University.I have a strong interest in AI security research, particularly in backdoor attacks and vulnerability analysis of large language models (LLMs). I hope to have the opportunity to pursue a Ph.D. in AI security in the future, and I am determined to work hard towards that goal.
 
-In the past two years, I have been awarded the National Encouragement Scholarship (5,000 RMB), the First-Class Scholarship of Wuhan University (top 5%), and the Lei Jun Computer Innovation and Development Fund (1,000 RMB).
+In the past two years, I have been awarded the Lei Jun Computer Science Undergraduate Scholarship (30 candidates per year in WHU), National Encouragement Scholarship, the First-Class Scholarship of Wuhan University (top 5%), and the Lei Jun Computer Innovation and Development Fund.
 
 In my personal life, I enjoy fitness🏋️‍♂️, basketball⛹️, and hiking🧗‍♂️. If you're interested in connecting with me, feel free to reach out through any means!☀️
 
@@ -38,27 +38,27 @@ In my personal life, I enjoy fitness🏋️‍♂️, basketball⛹️, and hiki
 -->
 
 # 🏆 Competition Awards
-
-- **Honorable Mention.** Mathematical Contest in Modeling (MCM). *2024.5*
-- **First Prize.**Huazhong Cup College Student Mathematical Modeling Challenge. *2024.5*
+- **Second Prize.** The National Undergraduate Mathematical Modeling Contest. *2024.11*
 - **Silver Medal.** China International College Students Innovation Competition:: Hubei Provincial Division. *2024.8*
-- **Third Prize.** Hubei Provincial College Student Mathematics Competition. *2023.12*
-- **Third Prize.** China College Student Computer Design Competition(Central and South Region). *2024.5*
 - **First Prize.** Wuhan University Information Security Competition. *2024.8*
 - **First Prize.** Wuhan University Offensive and Defensive Cybersecurity Drill. *2024.6*
 - **Second Prize.**Wuhan University College Students Innovation and Entrepreneurship Competition in Surveying and Mapping. *2024.6*
+- **Honorable Mention.** Mathematical Contest in Modeling (MCM). *2024.5*
+- **First Prize.**Huazhong Cup College Student Mathematical Modeling Challenge. *2024.5*
+- **Third Prize.** China College Student Computer Design Competition(Central and South Region). *2024.5* 
+- **Third Prize.** Hubei Provincial College Student Mathematics Competition. *2023.12*
 
 
 
 
 # 🎖 Scholarships and Honors
-- *2023.10* **National Encouragement Scholarship**  *The Central Government of China*
+- *2024.11* **Lei Jun Computer Science Undergraduate Scholarship (Award Rate: 10/1213)**  *Wuhan University & Xiao Mi Technologies Co., Ltd.*
+- *2024.10* **First Class Scholarship of WHU** (Award Rate: 5% school-wide) *Wuhan University*
 - *2024.6* **Lei Jun Computer Innovation and Development Fund**  *Wuhan University & Xiao Mi Technologies Co., Ltd.*
-- *2023.10* **Merit Student**  (Award Rate: 10% school-wide) *Wuhan University*
-- *2024.10* **Merit Student**  (Award Rate: 10% school-wide) *Wuhan University*
-- *2024.10* **First Class Scholarship of WHU** (Award Rate: 5% school-wide) *Wuhan University* 
+- *2023.10* **National Encouragement Scholarship**  *The Central Government of China*
 - *2023.10* **Second Class Scholarship of WHU** (Award Rate: 15% school-wide) *Wuhan University* 
-
+- *2024.10* **Merit Student**  (Award Rate: 10% school-wide) *Wuhan University*
+- *2023.10* **Merit Student**  (Award Rate: 10% school-wide) *Wuhan University*
 
 
 # 📖 Educations
