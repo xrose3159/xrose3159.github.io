@@ -39,7 +39,7 @@ In my personal life, I enjoy fitness🏋️‍♂️, basketball⛹️, and hiki
 - **Second Prize.** The National Undergraduate Mathematical Modeling Contest. *2024.11*
 - **Silver Medal.** China International College Students Innovation Competition:: Hubei Provincial Division. *2024.8*
 - **Honorable Mention.** Mathematical Contest in Modeling (MCM). *2024.5*
-- **First Prize.**Huazhong Cup College Student Mathematical Modeling Challenge. *2024.5*
+- **First Prize.** Huazhong Cup College Student Mathematical Modeling Challenge. *2024.5*
 
 
 
