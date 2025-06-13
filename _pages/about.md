@@ -19,9 +19,9 @@ redirect_from:
 
 Hello, curious mind!🙌
 
-I'm **Xiaoran Shang**(尚萧然).I'm presently a third-year undergraduate student studying Information security for my B.E. at [Cyber Science and Engineering (SCSE)](https://cse.whu.edu.cn/index.htm),[Wuhan University(WHU)](https://www.whu.edu.cn/).
+I'm **Xiaoran Shang**(Chinese:尚萧然).I'm presently a third-year undergraduate student studying Information security at [Cyber Science and Engineering (SCSE)](https://cse.whu.edu.cn/index.htm),[Wuhan University(WHU)](https://www.whu.edu.cn/).
 
-I am very fortunate to be advised by [Prof.Wang](https://wangrun.github.io/) of AISec Lab from [School of SCSE](https://cse.whu.edu.cn/), Wuhan University.I have a strong interest in AI security research, particularly in backdoor attacks and vulnerability analysis of large language models (LLMs). I hope to have the opportunity to pursue a Ph.D. in AI security in the future, and I am determined to work hard towards that goal.
+I have closely collaborated with [Prof.Ye](https://marswhu.github.io/index.html) of MARS Lab from [School of CS](https://cs.whu.edu.cn/), Wuhan University.I have a strong interest in AI Security & Privacy, MLLM and agent. I am seeking PhD opportunities.
 
 In my personal life, I enjoy fitness🏋️‍♂️, basketball⛹️, and hiking🧗‍♂️. If you're interested in connecting with me, feel free to reach out through any means!☀️
 
@@ -36,6 +36,11 @@ In my personal life, I enjoy fitness🏋️‍♂️, basketball⛹️, and hiki
 -->
 
 # 🏆 Competition Awards
+- **First Prize.** China Robotics and Artificial Intelligence Competition (Hubei Provincial Division). *2025.6*
+- **First Prize.** China College Student Computer Design Competition (Central and South Region)(Digital Games and Interaction Design). *2025.5*
+- **First Prize.** China College Student Computer Design Competition (Central and South Region)(Artifical Intelligence Track). *2025.5*
+- **First Prize.** China College Student Computer Design Competition (Central and South Region)(Artifical Intelligence Track). *2025.5*
+- **First Prize.** China College Student Computer Design Competition (Central and South Region)(Big Data Track). *2025.5*
 - **Second Prize.** The National Undergraduate Mathematical Modeling Contest. *2024.11*
 - **Silver Medal.** China International College Students Innovation Competition:: Hubei Provincial Division. *2024.8*
 - **Honorable Mention.** Mathematical Contest in Modeling (MCM). *2024.5*
@@ -45,6 +50,7 @@ In my personal life, I enjoy fitness🏋️‍♂️, basketball⛹️, and hiki
 
 
 # 🎖 Scholarships and Honors
+- *2025.6* **Lei Jun Computer Innovation and Development Fund**  *Wuhan University & Xiao Mi Technologies Co., Ltd.*
 - *2024.11* **Lei Jun Computer Science Undergraduate Scholarship (Award Rate: 10/1213)**  *Wuhan University & Xiao Mi Technologies Co., Ltd.*
 - *2024.10* **First Class Scholarship of WHU** (Award Rate: 5% school-wide) *Wuhan University*
 - *2024.6* **Lei Jun Computer Innovation and Development Fund**  *Wuhan University & Xiao Mi Technologies Co., Ltd.*
@@ -56,7 +62,6 @@ In my personal life, I enjoy fitness🏋️‍♂️, basketball⛹️, and hiki
 # 📖 Educations
 - *2022.08 - Now*, Undergraduate, School of Cyber Science and Engineering, Wuhan University, China. Majoring in Information Security. 
 - *2019.09 - 2022.06*, Senior Middle School, The High School Attached to Northeast Normal University, Changchun,China.
-- *2016.09 - 2019.06*, Junior Middle School, Changchun No. 48 Middle School, Changchun,China.
 
 <!--
 # 🎡 Activities
