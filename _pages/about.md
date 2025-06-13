@@ -41,6 +41,8 @@ In my personal life, I enjoy fitness🏋️‍♂️, basketball⛹️, and hiki
 - **First Prize.** China College Student Computer Design Competition (Central and South Region)(Artifical Intelligence Track). *2025.5*
 - **First Prize.** China College Student Computer Design Competition (Central and South Region)(Artifical Intelligence Track). *2025.5*
 - **First Prize.** China College Student Computer Design Competition (Central and South Region)(Big Data Track). *2025.5*
+- **Second Prize.** LanQiao Cup：Artificial Intelligence Algorithm Special Competition(Hubei Provincial Division). *2025.4*
+- **Bronze Medal.** NeurIPS 2024 - Ariel Data Challenge. *2024.12*
 - **Second Prize.** The National Undergraduate Mathematical Modeling Contest. *2024.11*
 - **Silver Medal.** China International College Students Innovation Competition:: Hubei Provincial Division. *2024.8*
 - **Honorable Mention.** Mathematical Contest in Modeling (MCM). *2024.5*
