@@ -44,7 +44,7 @@ NeurIPS 2025（Under Review）
 
 Xiaoran Shang†, Guancheng Wan†, Guibin Zhang etc.
 
-#### Rating[Confidence]: 5/4 5/4 4/3 4/3
+#### Rating[Confidence]: 5[4] 5[4] 4[3] 4[3]
 
 Annual Conference on Neural Information Processing Systems (NeurIPS), 2025
 <img width="1435" height="665" alt="image" src="https://github.com/user-attachments/assets/0c71fbd2-78e8-43c6-ab63-594e83a952c2" />
