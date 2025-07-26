@@ -35,6 +35,23 @@ In my personal life, I enjoy fitness🏋️‍♂️, basketball⛹️, and hiki
 *前面的世界，以后再来探索吧*
 -->
 
+# 📃 Publications (Full List)
+† Equal Contribution
+
+2025
+NeurIPS 2025（Under Review）
+HYPERION: Fine-Grained Hypersphere Alignment for Robust Federated Graph Learning
+Xiaoran Shang†, Guancheng Wan†, Guibin Zhang etc.
+Rating[Confidence]: 5/4 5/4 4/3 4/3
+Annual Conference on Neural Information Processing Systems (NeurIPS), 2025
+<img width="1435" height="665" alt="image" src="https://github.com/user-attachments/assets/0c71fbd2-78e8-43c6-ab63-594e83a952c2" />
+
+AAAI 2026（Under Review）
+DAWN: Distributed Multi-Agent Systems Workflow Synthesis via Federated Graph LearNing
+Guancheng Wan, Mo Zhou, Xiaoran Shang etc.
+Annual AAAI Conference on Artificial Intelligence (AAAI), 2026
+<img width="1379" height="737" alt="image" src="https://github.com/user-attachments/assets/d5914aa4-b495-417b-b55f-be0780dcb65e" />
+
 # 🏆 Competition Awards
 - **First Prize.** China Robotics and Artificial Intelligence Competition (Hubei Provincial Division). *2025.6*
 - **First Prize.** China College Student Computer Design Competition (Central and South Region)(Digital Games and Interaction Design). *2025.5*
