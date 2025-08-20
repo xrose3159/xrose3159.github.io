@@ -19,7 +19,7 @@ redirect_from:
 
 I'm **Xiaoran Shang** (Chinese: 尚萧然), presently a fourth-year undergraduate student studying Information Security at [Cyber Science and Engineering (SCSE)](https://cse.whu.edu.cn/index.htm), [Wuhan University (WHU)](https://www.whu.edu.cn/).
 
-I have closely collaborated with [Prof. Ye](https://marswhu.github.io/index.html) of MARS Lab from [School of CS](https://cs.whu.edu.cn/), Wuhan University. I have a strong interest in **AI Security & Privacy**, **LLM**, and **Multi Agent System(MAS)**. I am seeking PhD opportunities.
+I have closely collaborated with [Prof. Ye](https://marswhu.github.io/index.html) of MARS Lab from [School of CS](https://cs.whu.edu.cn/), Wuhan University. I have a strong interest in **AI Security & Privacy**, **LLM**, and **Multi Agent System(MAS)**.
 
 I am open to any research collaboration. Feel free to contact me via [Email](mailto:armstrongsxr@163.com) or <a href="#" onclick="showWeChatQR(); return false;">WeChat</a>.
 
@@ -312,7 +312,10 @@ document.addEventListener('keydown', function(event) {
 # 🎓 Misc
 
 - I am a big fans of Derrick Rose, Chris Bumstead and David Dai (Liang zi).
-- I enjoy fitness(Bench press 100 kg), basketball, hiking, FPS and violin.
+- I enjoy fitness, and my bench press max is over 100kg.
+- I enjoy FPS such as CSGO, VALORANT ...
+- I enjoy basketball, and have served as the starting forward for my college team.
+- I enjoy hiking, and have summited Tianmenshan, Cangshan and so on.
   
 
 
