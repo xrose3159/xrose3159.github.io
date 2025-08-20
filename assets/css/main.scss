@@ -57,8 +57,15 @@
         order: 2;
         img {
             max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
+            border-radius: 16px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
             object-fit: cover;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            
+            &:hover {
+                transform: translateY(-2px);
+                box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
+            }
         }
     }
     
@@ -83,8 +90,150 @@
         }
 
     }
+}
 
+/* Enhanced publication styles */
+.publication-card {
+    background: linear-gradient(135deg, #f8f9ff 0%, #ffffff 100%);
+    border: 1px solid #e1e8f7;
+    border-radius: 20px;
+    padding: 2em;
+    margin-bottom: 2em;
+    box-shadow: 0 8px 32px rgba(102, 126, 234, 0.12);
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    position: relative;
+    overflow: hidden;
+    
+    &::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        height: 4px;
+        background: linear-gradient(90deg, #667eea, #764ba2);
+        border-radius: 20px 20px 0 0;
+    }
+    
+    &:hover {
+        transform: translateY(-4px);
+        box-shadow: 0 16px 48px rgba(102, 126, 234, 0.18);
+        border-color: #c7d2fe;
+    }
+}
 
+.publication-image {
+    background: white;
+    border-radius: 20px;
+    padding: 1em;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    
+    &:hover {
+        transform: scale(1.02);
+        box-shadow: 0 12px 32px rgba(0, 0, 0, 0.15);
+    }
+    
+    img {
+        width: 100%;
+        height: auto;
+        border-radius: 16px;
+        box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+    }
+}
+
+.publication-badge {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 0.4em 1em;
+    border-radius: 25px;
+    font-size: 0.85em;
+    font-weight: 600;
+    display: inline-block;
+    margin-bottom: 1em;
+    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+    
+    &.under-review {
+        background: linear-gradient(135deg, #6b7280 0%, #4b5563 100%);
+        box-shadow: 0 4px 12px rgba(107, 114, 128, 0.3);
+    }
+}
+
+.publication-title {
+    color: #1a202c;
+    font-size: 1.4em;
+    font-weight: 700;
+    margin: 0 0 1em 0;
+    line-height: 1.3;
+    letter-spacing: -0.02em;
+}
+
+.publication-authors {
+    color: #4a5568;
+    font-size: 1.05em;
+    margin-bottom: 1.2em;
+    line-height: 1.5;
+    
+    strong {
+        color: #2d3748;
+        font-weight: 600;
+    }
+}
+
+.review-scores {
+    margin-bottom: 1.2em;
+    
+    .scores-label {
+        color: #666;
+        font-size: 0.9em;
+        margin-bottom: 0.5em;
+        font-weight: 600;
+    }
+    
+    .scores-container {
+        display: flex;
+        gap: 0.6em;
+        flex-wrap: wrap;
+    }
+}
+
+.score-badge {
+    padding: 0.4em 1em;
+    border-radius: 25px;
+    font-size: 0.9em;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    
+    &:hover {
+        transform: translateY(-1px);
+    }
+    
+    &.excellent {
+        background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+        color: white;
+        box-shadow: 0 4px 12px rgba(16, 185, 129, 0.3);
+    }
+    
+    &.good {
+        background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);
+        color: white;
+        box-shadow: 0 4px 12px rgba(245, 158, 11, 0.3);
+    }
+}
+
+.publication-venue {
+    color: #6b7280;
+    font-size: 0.95em;
+    font-style: italic;
+    line-height: 1.4;
+    margin-top: auto;
+}
+
+.publication-description {
+    color: #6b7280;
+    font-size: 0.95em;
+    line-height: 1.5;
+    margin-top: 1em;
 }
 
 $scroll_offset : 2em;
@@ -106,4 +255,144 @@ h1:before, .anchor:before {
     color: white;
     background-color: #00369f;
     font-size: .8em;
+}
+
+/* Enhanced styles for publications and awards */
+.publication-item {
+    border: 1px solid #e1e4e8;
+    border-radius: 8px;
+    padding: 1.5em;
+    margin-bottom: 1.5em;
+    background: #fff;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    transition: box-shadow 0.3s ease;
+}
+
+.publication-item:hover {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.review-score {
+    display: inline-block;
+    padding: 2px 6px;
+    border-radius: 3px;
+    font-size: 0.8em;
+    font-weight: bold;
+    margin-right: 4px;
+}
+
+.review-score.excellent {
+    background-color: #28a745;
+    color: white;
+}
+
+.review-score.good {
+    background-color: #ffc107;
+    color: black;
+}
+
+.review-score.fair {
+    background-color: #fd7e14;
+    color: white;
+}
+
+.review-score.poor {
+    background-color: #dc3545;
+    color: white;
+}
+
+.award-badge {
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 0.85em;
+    font-weight: bold;
+    margin-right: 10px;
+    display: inline-block;
+}
+
+.award-badge.first-prize {
+    background: linear-gradient(90deg, #FFD700, #FFA500);
+    color: white;
+}
+
+.award-badge.second-prize {
+    background: linear-gradient(90deg, #C0C0C0, #A0A0A0);
+    color: white;
+}
+
+.award-badge.third-prize {
+    background: linear-gradient(90deg, #CD7F32, #B8860B);
+    color: white;
+}
+
+.award-badge.honorable-mention {
+    background: linear-gradient(90deg, #4CAF50, #45a049);
+    color: white;
+}
+
+.scholarship-card {
+    border-radius: 10px;
+    padding: 1.5em;
+    margin-bottom: 1em;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+}
+
+.scholarship-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.5em;
+}
+
+.scholarship-title {
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+.scholarship-date {
+    background: rgba(255,255,255,0.2);
+    padding: 4px 8px;
+    border-radius: 15px;
+    font-size: 0.8em;
+}
+
+.scholarship-info {
+    color: rgba(255,255,255,0.9);
+    font-size: 0.9em;
+}
+
+.education-item {
+    border-left: 4px solid #667eea;
+    padding-left: 1em;
+    margin-bottom: 2em;
+}
+
+.education-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.5em;
+}
+
+.education-degree {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #333;
+}
+
+.education-period {
+    color: #666;
+    font-style: italic;
+}
+
+.education-institution {
+    color: #555;
+    margin-bottom: 0.3em;
+    font-weight: bold;
+}
+
+.education-details {
+    color: #777;
+    font-size: 0.9em;
 }
