@@ -540,3 +540,35 @@ h1:before, .anchor:before {
         }
     }
 }
+
+/* Enhanced author avatar styling for better proportions */
+.author__avatar img {
+    width: 100% !important;
+    height: auto !important;
+    object-fit: cover !important;
+    aspect-ratio: 1 / 1 !important;
+    border-radius: 50% !important;
+    
+    @include breakpoint($medium) {
+        max-width: 150px;
+        max-height: 150px;
+    }
+    
+    @include breakpoint($large) {
+        max-width: 175px;
+        max-height: 175px;
+    }
+}
+
+/* Ensure avatar container maintains proper dimensions */
+.author__avatar {
+    @include breakpoint($large) {
+        width: 175px !important;
+        height: 175px !important;
+        overflow: hidden;
+        border-radius: 50%;
+        display: flex !important;
+        align-items: center;
+        justify-content: center;
+    }
+}

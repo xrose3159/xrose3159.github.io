@@ -17,13 +17,46 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, curious mind!🙌
-
-I'm **Xiaoran Shang** (Chinese: 尚萧然). I'm presently a third-year undergraduate student studying Information Security at [Cyber Science and Engineering (SCSE)](https://cse.whu.edu.cn/index.htm), [Wuhan University (WHU)](https://www.whu.edu.cn/).
+I'm **Xiaoran Shang** (Chinese: 尚萧然), presently a fourth-year undergraduate student studying Information Security at [Cyber Science and Engineering (SCSE)](https://cse.whu.edu.cn/index.htm), [Wuhan University (WHU)](https://www.whu.edu.cn/).
 
 I have closely collaborated with [Prof. Ye](https://marswhu.github.io/index.html) of MARS Lab from [School of CS](https://cs.whu.edu.cn/), Wuhan University. I have a strong interest in **AI Security & Privacy**, **LLM**, and **Multi Agent System(MAS)**. I am seeking PhD opportunities.
 
-In my personal life, I enjoy fitness🏋️‍♂️, basketball⛹️, and hiking🧗‍♂️. If you're interested in connecting with me, feel free to reach out through any means!☀️
+I am open to any research collaboration. Feel free to contact me via [Email](mailto:2022302181010@whu.edu.cn) or <a href="#" onclick="showWeChatQR(); return false;">WeChat</a>.
+
+<!-- WeChat QR Code Modal -->
+<div id="wechatModal" style="display: none; position: fixed; z-index: 1000; left: 0; top: 0; width: 100%; height: 100%; background-color: rgba(0,0,0,0.5);" onclick="closeWeChatQR()">
+  <div style="position: relative; margin: 10% auto; width: 300px; background: white; border-radius: 16px; padding: 2em; text-align: center; box-shadow: 0 8px 32px rgba(0,0,0,0.3);" onclick="event.stopPropagation()">
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1em;">
+      <h3 style="margin: 0; color: #2d3748; font-size: 1.2em;">WeChat QR Code</h3>
+      <span style="cursor: pointer; font-size: 1.5em; color: #999; font-weight: bold;" onclick="closeWeChatQR()">&times;</span>
+    </div>
+    <img src="images/wechat-qr.png" alt="WeChat QR Code" style="width: 200px; height: 200px; border-radius: 12px; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1); margin: 1em 0;" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';" />
+    <div style="display: none; padding: 1em; background: #f8f9fa; border-radius: 8px; color: #666; font-size: 0.9em;">
+      📱 WeChat QR code will be displayed here<br>
+      <small>Please add wechat-qr.png to the images/ folder</small>
+    </div>
+    <p style="color: #666; font-size: 0.9em; margin: 1em 0 0 0;">Scan to add me on WeChat</p>
+  </div>
+</div>
+
+<script>
+function showWeChatQR() {
+  document.getElementById('wechatModal').style.display = 'block';
+  document.body.style.overflow = 'hidden'; // 防止背景滚动
+}
+
+function closeWeChatQR() {
+  document.getElementById('wechatModal').style.display = 'none';
+  document.body.style.overflow = 'auto'; // 恢复滚动
+}
+
+// ESC键关闭弹窗
+document.addEventListener('keydown', function(event) {
+  if (event.key === 'Escape') {
+    closeWeChatQR();
+  }
+});
+</script>
 
 # 🔥 News
 
@@ -119,18 +152,27 @@ In my personal life, I enjoy fitness🏋️‍♂️, basketball⛹️, and hiki
 
 <div style="margin-bottom: 1em;">
   <div style="display: flex; align-items: center; margin-bottom: 0.5em;">
-    <span style="background: linear-gradient(90deg, #FFD700, #FFA500); color: white; padding: 4px 8px; border-radius: 15px; font-size: 0.8em; font-weight: bold; margin-right: 10px;">🥇 First Prize</span>
-    <strong>China Robotics and Artificial Intelligence Competition</strong> <span style="color: #666;">(Hubei Provincial Division)</span>
+    <span style="background: linear-gradient(90deg, #FFD700, #FFA500); color: white; padding: 4px 8px; border-radius: 15px; font-size: 0.8em; font-weight: bold; margin-right: 10px;">🥇🥇 2 * First Prize</span>
+    <strong>China Robotics and Artificial Intelligence Competition</strong> <span style="color: #666;"></span>
   </div>
-  <div style="color: #666; font-style: italic; margin-left: 20px;">2025.6</div>
+  <div style="color: #666; font-style: italic; margin-left: 20px;">2025</div>
 </div>
 
 <div style="margin-bottom: 1em;">
   <div style="display: flex; align-items: center; margin-bottom: 0.5em;">
     <span style="background: linear-gradient(90deg, #FFD700, #FFA500); color: white; padding: 4px 8px; border-radius: 15px; font-size: 0.8em; font-weight: bold; margin-right: 10px;">🥇 First Prize</span>
-    <strong>China College Student Computer Design Competition</strong> <span style="color: #666;">(Central and South Region - Digital Games and Interaction Design)</span>
+    <strong>China Robotics and Artificial Intelligence Competition (New productivity track)</strong> <span style="color: #666;"></span>
   </div>
-  <div style="color: #666; font-style: italic; margin-left: 20px;">2025.5</div>
+  <div style="color: #666; font-style: italic; margin-left: 20px;">2025</div>
+</div>
+
+
+<div style="margin-bottom: 1em;">
+  <div style="display: flex; align-items: center; margin-bottom: 0.5em;">
+    <span style="background: linear-gradient(90deg, #FFD700, #FFA500); color: white; padding: 4px 8px; border-radius: 15px; font-size: 0.8em; font-weight: bold; margin-right: 10px;">🥇🥇🥇 3 * First Prize</span>
+    <strong>China College Student Computer Design Competition</strong> <span style="color: #666;">(Central and South Region - Digital Games and Interaction Design Track, Artificial Intelligence Track, Big Data Track)</span>
+  </div>
+  <div style="color: #666; font-style: italic; margin-left: 20px;">2025</div>
 </div>
 
 <div style="margin-bottom: 1em;">
@@ -138,7 +180,7 @@ In my personal life, I enjoy fitness🏋️‍♂️, basketball⛹️, and hiki
     <span style="background: linear-gradient(90deg, #FFD700, #FFA500); color: white; padding: 4px 8px; border-radius: 15px; font-size: 0.8em; font-weight: bold; margin-right: 10px;">🥇 First Prize</span>
     <strong>China College Student Computer Design Competition</strong> <span style="color: #666;">(Central and South Region - Artificial Intelligence Track)</span>
   </div>
-  <div style="color: #666; font-style: italic; margin-left: 20px;">2025.5</div>
+  <div style="color: #666; font-style: italic; margin-left: 20px;">2025</div>
 </div>
 
 <div style="margin-bottom: 1em;">
@@ -146,7 +188,7 @@ In my personal life, I enjoy fitness🏋️‍♂️, basketball⛹️, and hiki
     <span style="background: linear-gradient(90deg, #FFD700, #FFA500); color: white; padding: 4px 8px; border-radius: 15px; font-size: 0.8em; font-weight: bold; margin-right: 10px;">🥇 First Prize</span>
     <strong>China College Student Computer Design Competition</strong> <span style="color: #666;">(Central and South Region - Big Data Track)</span>
   </div>
-  <div style="color: #666; font-style: italic; margin-left: 20px;">2025.5</div>
+  <div style="color: #666; font-style: italic; margin-left: 20px;">2025</div>
 </div>
 
 <div style="margin-bottom: 1em;">
@@ -154,7 +196,7 @@ In my personal life, I enjoy fitness🏋️‍♂️, basketball⛹️, and hiki
     <span style="background: linear-gradient(90deg, #C0C0C0, #A0A0A0); color: white; padding: 4px 8px; border-radius: 15px; font-size: 0.8em; font-weight: bold; margin-right: 10px;">🥈 Second Prize</span>
     <strong>LanQiao Cup: Artificial Intelligence Algorithm Special Competition</strong> <span style="color: #666;">(Hubei Provincial Division)</span>
   </div>
-  <div style="color: #666; font-style: italic; margin-left: 20px;">2025.4</div>
+  <div style="color: #666; font-style: italic; margin-left: 20px;">2025</div>
 </div>
 
 <div style="margin-bottom: 1em;">
@@ -183,14 +225,6 @@ In my personal life, I enjoy fitness🏋️‍♂️, basketball⛹️, and hiki
 
 <div style="margin-bottom: 1em;">
   <div style="display: flex; align-items: center; margin-bottom: 0.5em;">
-    <span style="background: linear-gradient(90deg, #4CAF50, #45a049); color: white; padding: 4px 8px; border-radius: 15px; font-size: 0.8em; font-weight: bold; margin-right: 10px;">🏅 Honorable Mention</span>
-    <strong>Mathematical Contest in Modeling (MCM)</strong>
-  </div>
-  <div style="color: #666; font-style: italic; margin-left: 20px;">2024.5</div>
-</div>
-
-<div style="margin-bottom: 1em;">
-  <div style="display: flex; align-items: center; margin-bottom: 0.5em;">
     <span style="background: linear-gradient(90deg, #FFD700, #FFA500); color: white; padding: 4px 8px; border-radius: 15px; font-size: 0.8em; font-weight: bold; margin-right: 10px;">🥇 First Prize</span>
     <strong>Huazhong Cup College Student Mathematical Modeling Challenge</strong>
   </div>
@@ -202,26 +236,22 @@ In my personal life, I enjoy fitness🏋️‍♂️, basketball⛹️, and hiki
 
 # 🎖 Scholarships and Honors
 
-- **Lei Jun Computer Innovation and Development Fund** (2025.6)  
-  *Wuhan University & Xiao Mi Technologies Co., Ltd.*
-
-- **Lei Jun Computer Science Undergraduate Scholarship** (2024.11)  
+- **Lei Jun Computer Science Undergraduate Scholarship** (2024)  
   *Award Rate: 10/1213 • Wuhan University & Xiao Mi Technologies Co., Ltd.*
 
-- **First Class Scholarship of WHU** (2024.10)  
+- **First Class Scholarship of WHU** (2024)  
   *Award Rate: 5% school-wide • Wuhan University*
 
-- **Lei Jun Computer Innovation and Development Fund** (2024.6)  
+- **Lei Jun Computer Innovation and Development Fund** (2024, 2025)  
   *Wuhan University & Xiao Mi Technologies Co., Ltd.*
 
-- **National Encouragement Scholarship** (2023.10)  
+- **National Encouragement Scholarship** (2023)  
   *The Central Government of China*
 
-- **Merit Student** (2024.10)  
+- **Merit Student** (2023, 2024)  
   *Award Rate: 10% school-wide • Wuhan University*
 
-- **Merit Student** (2023.10)  
-  *Award Rate: 10% school-wide • Wuhan University*
+
 
 
 # 📖 Education
@@ -274,6 +304,15 @@ In my personal life, I enjoy fitness🏋️‍♂️, basketball⛹️, and hiki
   </div>
 </div>
 
+# 🎓 Academic Service
+
+- **Reviewer** for MM, FedKDD WorkShop
+
+
+# 🎓 Misc
+
+- I am a big fans of Derrick Rose, Chris Bumstead and David Dai (Liang zi).
+- I enjoy fitness(Bench press 100 kg), basketball, hiking and violin.
 <!--
 # 🎡 Activities
 ## Academic Services
