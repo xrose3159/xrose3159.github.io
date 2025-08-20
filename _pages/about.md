@@ -169,8 +169,8 @@ document.addEventListener('keydown', function(event) {
 
 <div style="margin-bottom: 1em;">
   <div style="display: flex; align-items: center; margin-bottom: 0.5em;">
-    <span style="background: linear-gradient(90deg, #FFD700, #FFA500); color: white; padding: 4px 8px; border-radius: 15px; font-size: 0.8em; font-weight: bold; margin-right: 10px;">🥇🥇🥇 3 * First Prize</span>
-    <strong>China College Student Computer Design Competition</strong> <span style="color: #666;">(Central and South Region - Digital Games and Interaction Design Track, Artificial Intelligence Track, Big Data Track)</span>
+    <span style="background: linear-gradient(90deg, #FFD700, #FFA500); color: white; padding: 4px 8px; border-radius: 15px; font-size: 0.8em; font-weight: bold; margin-right: 10px;">🥇 First Prize</span>
+    <strong>China College Student Computer Design Competition</strong> <span style="color: #666;">(Central and South Region - Digital Games and Interaction Design Track)</span>
   </div>
   <div style="color: #666; font-style: italic; margin-left: 20px;">2025</div>
 </div>
@@ -204,7 +204,7 @@ document.addEventListener('keydown', function(event) {
     <span style="background: linear-gradient(90deg, #CD7F32, #B8860B); color: white; padding: 4px 8px; border-radius: 15px; font-size: 0.8em; font-weight: bold; margin-right: 10px;">🥉 Bronze Medal</span>
     <strong>NeurIPS 2024 - Ariel Data Challenge</strong>
   </div>
-  <div style="color: #666; font-style: italic; margin-left: 20px;">2024.12</div>
+  <div style="color: #666; font-style: italic; margin-left: 20px;">2024</div>
 </div>
 
 <div style="margin-bottom: 1em;">
@@ -212,7 +212,7 @@ document.addEventListener('keydown', function(event) {
     <span style="background: linear-gradient(90deg, #C0C0C0, #A0A0A0); color: white; padding: 4px 8px; border-radius: 15px; font-size: 0.8em; font-weight: bold; margin-right: 10px;">🥈 Second Prize</span>
     <strong>The National Undergraduate Mathematical Modeling Contest</strong>
   </div>
-  <div style="color: #666; font-style: italic; margin-left: 20px;">2024.11</div>
+  <div style="color: #666; font-style: italic; margin-left: 20px;">2024</div>
 </div>
 
 <div style="margin-bottom: 1em;">
@@ -220,7 +220,7 @@ document.addEventListener('keydown', function(event) {
     <span style="background: linear-gradient(90deg, #C0C0C0, #A0A0A0); color: white; padding: 4px 8px; border-radius: 15px; font-size: 0.8em; font-weight: bold; margin-right: 10px;">🥈 Silver Medal</span>
     <strong>China International College Students Innovation Competition</strong> <span style="color: #666;">(Hubei Provincial Division)</span>
   </div>
-  <div style="color: #666; font-style: italic; margin-left: 20px;">2024.8</div>
+  <div style="color: #666; font-style: italic; margin-left: 20px;">2024</div>
 </div>
 
 <div style="margin-bottom: 1em;">
@@ -228,7 +228,7 @@ document.addEventListener('keydown', function(event) {
     <span style="background: linear-gradient(90deg, #FFD700, #FFA500); color: white; padding: 4px 8px; border-radius: 15px; font-size: 0.8em; font-weight: bold; margin-right: 10px;">🥇 First Prize</span>
     <strong>Huazhong Cup College Student Mathematical Modeling Challenge</strong>
   </div>
-  <div style="color: #666; font-style: italic; margin-left: 20px;">2024.5</div>
+  <div style="color: #666; font-style: italic; margin-left: 20px;">2024</div>
 </div>
 
 
@@ -312,7 +312,10 @@ document.addEventListener('keydown', function(event) {
 # 🎓 Misc
 
 - I am a big fans of Derrick Rose, Chris Bumstead and David Dai (Liang zi).
-- I enjoy fitness(Bench press 100 kg), basketball, hiking and violin.
+- I enjoy fitness(Bench press 100 kg), basketball, hiking, FPS and violin.
+  
+
+
 <!--
 # 🎡 Activities
 ## Academic Services
