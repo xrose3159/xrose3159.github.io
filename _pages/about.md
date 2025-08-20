@@ -21,7 +21,7 @@ I'm **Xiaoran Shang** (Chinese: 尚萧然), presently a fourth-year undergraduat
 
 I have closely collaborated with [Prof. Ye](https://marswhu.github.io/index.html) of MARS Lab from [School of CS](https://cs.whu.edu.cn/), Wuhan University. I have a strong interest in **AI Security & Privacy**, **LLM**, and **Multi Agent System(MAS)**. I am seeking PhD opportunities.
 
-I am open to any research collaboration. Feel free to contact me via [Email](mailto:2022302181010@whu.edu.cn) or <a href="#" onclick="showWeChatQR(); return false;">WeChat</a>.
+I am open to any research collaboration. Feel free to contact me via [Email](mailto:armstrongsxr@163.com) or <a href="#" onclick="showWeChatQR(); return false;">WeChat</a>.
 
 <!-- WeChat QR Code Modal -->
 <div id="wechatModal" style="display: none; position: fixed; z-index: 1000; left: 0; top: 0; width: 100%; height: 100%; background-color: rgba(0,0,0,0.5);" onclick="closeWeChatQR()">
