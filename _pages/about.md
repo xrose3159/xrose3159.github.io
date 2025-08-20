@@ -70,9 +70,8 @@ document.addEventListener('keydown', function(event) {
 -->
 
 # 📃 Publications
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 0.5em 1em; border-radius: 20px; display: inline-block; margin-bottom: 2em;">
-  <span style="font-size: 0.9em;">† Equal Contribution</span>
-</div>
+
+<div style="color: #666; font-size: 0.9em; margin-bottom: 2em;">† Equal Contribution</div>
 
 ## <span style="color: #667eea; font-weight: 600;">2025</span>
 
