@@ -26,35 +26,10 @@ I have closely collaborated with [Prof. Ye](https://marswhu.github.io/index.html
 In my personal life, I enjoy fitness🏋️‍♂️, basketball⛹️, and hiking🧗‍♂️. If you're interested in connecting with me, feel free to reach out through any means!☀️
 
 # 🔥 News
-<div style="background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 50%, #fecfef 100%); border-radius: 8px; padding: 1em; margin-bottom: 1.5em;">
-  <div style="display: flex; align-items: center; margin-bottom: 0.5em;">
-    <span style="background: #ff6b6b; color: white; padding: 2px 8px; border-radius: 12px; font-size: 0.8em; margin-right: 10px;">Competition</span>
-    <span style="color: #666; font-size: 0.9em;">2025.8</span>
-  </div>
-  <div style="color: #333; font-weight: 500;">
-    🏆 Won <strong>First Prize</strong> in China Robotics and Artificial Intelligence Competition (New productivity track) !
-  </div>
-</div>
 
-<div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); border-radius: 8px; padding: 1em; margin-bottom: 1.5em;">
-  <div style="display: flex; align-items: center; margin-bottom: 0.5em;">
-    <span style="background: #4facfe; color: white; padding: 2px 8px; border-radius: 12px; font-size: 0.8em; margin-right: 10px;">Competition</span>
-    <span style="color: #666; font-size: 0.9em;">2025.7</span>
-  </div>
-  <div style="color: #333; font-weight: 500;">
-    🏆 Won <strong>2 * First Prize</strong> in China Robotics and Artificial Intelligence Competition !
-  </div>
-</div>
-
-<div style="background: linear-gradient(135deg, #d299c2 0%, #fef9d7 100%); border-radius: 8px; padding: 1em; margin-bottom: 1.5em;">
-  <div style="display: flex; align-items: center; margin-bottom: 0.5em;">
-    <span style="background: #845ec2; color: white; padding: 2px 8px; border-radius: 12px; font-size: 0.8em; margin-right: 10px;">Honor</span>
-    <span style="color: #666; font-size: 0.9em;">2024.11</span>
-  </div>
-  <div style="color: #333; font-weight: 500;">
-    🎖️ Awarded <strong>Lei Jun Computer Undergraduate Scholarship</strong> (¥10000) !
-  </div>
-</div>
+- **2025.8** 🏆 Won **First Prize** in China Robotics and Artificial Intelligence Competition (New productivity track)
+- **2025.7** 🏆 Won **2 * First Prize** in China Robotics and Artificial Intelligence Competition
+- **2024.11** 🎖️ Awarded **Lei Jun Computer Undergraduate Scholarship** (¥10000)
 
 <!--
 # 📝 Publications 
@@ -227,99 +202,75 @@ In my personal life, I enjoy fitness🏋️‍♂️, basketball⛹️, and hiki
 
 # 🎖 Scholarships and Honors
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 10px; padding: 1.5em; margin-bottom: 1em; color: white;">
-  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5em;">
-    <strong style="font-size: 1.1em;">Lei Jun Computer Innovation and Development Fund</strong>
-    <span style="background: rgba(255,255,255,0.2); padding: 4px 8px; border-radius: 15px; font-size: 0.8em;">2025.6</span>
-  </div>
-  <div style="color: rgba(255,255,255,0.9); font-size: 0.9em;">
-    Wuhan University & Xiao Mi Technologies Co., Ltd.
-  </div>
-</div>
+- **Lei Jun Computer Innovation and Development Fund** (2025.6)  
+  *Wuhan University & Xiao Mi Technologies Co., Ltd.*
 
-<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 10px; padding: 1.5em; margin-bottom: 1em; color: white;">
-  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5em;">
-    <strong style="font-size: 1.1em;">Lei Jun Computer Science Undergraduate Scholarship</strong>
-    <span style="background: rgba(255,255,255,0.2); padding: 4px 8px; border-radius: 15px; font-size: 0.8em;">2024.11</span>
-  </div>
-  <div style="color: rgba(255,255,255,0.9); font-size: 0.9em;">
-    Award Rate: 10/1213 • Wuhan University & Xiao Mi Technologies Co., Ltd.
-  </div>
-</div>
+- **Lei Jun Computer Science Undergraduate Scholarship** (2024.11)  
+  *Award Rate: 10/1213 • Wuhan University & Xiao Mi Technologies Co., Ltd.*
 
-<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 10px; padding: 1.5em; margin-bottom: 1em; color: white;">
-  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5em;">
-    <strong style="font-size: 1.1em;">First Class Scholarship of WHU</strong>
-    <span style="background: rgba(255,255,255,0.2); padding: 4px 8px; border-radius: 15px; font-size: 0.8em;">2024.10</span>
-  </div>
-  <div style="color: rgba(255,255,255,0.9); font-size: 0.9em;">
-    Award Rate: 5% school-wide • Wuhan University
-  </div>
-</div>
+- **First Class Scholarship of WHU** (2024.10)  
+  *Award Rate: 5% school-wide • Wuhan University*
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 10px; padding: 1.5em; margin-bottom: 1em; color: white;">
-  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5em;">
-    <strong style="font-size: 1.1em;">Lei Jun Computer Innovation and Development Fund</strong>
-    <span style="background: rgba(255,255,255,0.2); padding: 4px 8px; border-radius: 15px; font-size: 0.8em;">2024.6</span>
-  </div>
-  <div style="color: rgba(255,255,255,0.9); font-size: 0.9em;">
-    Wuhan University & Xiao Mi Technologies Co., Ltd.
-  </div>
-</div>
+- **Lei Jun Computer Innovation and Development Fund** (2024.6)  
+  *Wuhan University & Xiao Mi Technologies Co., Ltd.*
 
-<div style="background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); border-radius: 10px; padding: 1.5em; margin-bottom: 1em; color: #333;">
-  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5em;">
-    <strong style="font-size: 1.1em;">National Encouragement Scholarship</strong>
-    <span style="background: rgba(0,0,0,0.1); padding: 4px 8px; border-radius: 15px; font-size: 0.8em;">2023.10</span>
-  </div>
-  <div style="color: rgba(0,0,0,0.7); font-size: 0.9em;">
-    The Central Government of China
-  </div>
-</div>
+- **National Encouragement Scholarship** (2023.10)  
+  *The Central Government of China*
 
-<div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); border-radius: 10px; padding: 1.5em; margin-bottom: 1em; color: #333;">
-  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5em;">
-    <strong style="font-size: 1.1em;">Merit Student</strong>
-    <span style="background: rgba(0,0,0,0.1); padding: 4px 8px; border-radius: 15px; font-size: 0.8em;">2024.10</span>
-  </div>
-  <div style="color: rgba(0,0,0,0.7); font-size: 0.9em;">
-    Award Rate: 10% school-wide • Wuhan University
-  </div>
-</div>
+- **Merit Student** (2024.10)  
+  *Award Rate: 10% school-wide • Wuhan University*
 
-<div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); border-radius: 10px; padding: 1.5em; margin-bottom: 1em; color: #333;">
-  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5em;">
-    <strong style="font-size: 1.1em;">Merit Student</strong>
-    <span style="background: rgba(0,0,0,0.1); padding: 4px 8px; border-radius: 15px; font-size: 0.8em;">2023.10</span>
-  </div>
-  <div style="color: rgba(0,0,0,0.7); font-size: 0.9em;">
-    Award Rate: 10% school-wide • Wuhan University
-  </div>
-</div>
+- **Merit Student** (2023.10)  
+  *Award Rate: 10% school-wide • Wuhan University*
 
 
 # 📖 Education
 
-<div style="border-left: 4px solid #667eea; padding-left: 1em; margin-bottom: 2em;">
-  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5em;">
-    <strong style="font-size: 1.1em; color: #333;">Undergraduate Student</strong>
-    <span style="color: #666; font-style: italic;">2022.08 - Present</span>
-  </div>
-  <div style="color: #555; margin-bottom: 0.3em;">
-    <strong>School of Cyber Science and Engineering</strong>, Wuhan University, China
-  </div>
-  <div style="color: #777; font-size: 0.9em;">
-    Major: Information Security
+<div style="background: linear-gradient(135deg, #f8f9ff 0%, #ffffff 100%); border: 1px solid #e1e8f7; border-radius: 16px; padding: 2em; margin-bottom: 2em; box-shadow: 0 4px 20px rgba(102, 126, 234, 0.1); transition: all 0.3s ease;">
+  <div style="display: flex; align-items: center; gap: 1.5em;">
+    <div style="flex: 0 0 80px;">
+      <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 16px rgba(102, 126, 234, 0.3); position: relative;">
+        <img src="images/whu-logo.png" alt="Wuhan University Logo" style="width: 60px; height: 60px; border-radius: 50%; object-fit: contain; background: white; padding: 8px; position: absolute;" onload="this.style.display='block';" onerror="this.style.display='none'; this.parentElement.querySelector('.fallback').style.display='flex';" />
+        <div class="fallback" style="display: flex; color: white; font-weight: bold; font-size: 1.1em; align-items: center; justify-content: center; width: 100%; height: 100%; text-align: center;">WHU</div>
+      </div>
+    </div>
+    <div style="flex: 1;">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.8em;">
+        <h3 style="color: #2d3748; font-size: 1.3em; font-weight: 700; margin: 0; line-height: 1.2;">Undergraduate Student</h3>
+        <span style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 0.3em 0.8em; border-radius: 20px; font-size: 0.85em; font-weight: 600;">2022.08 - Present</span>
+      </div>
+      <div style="color: #4a5568; font-size: 1.1em; margin-bottom: 0.5em; font-weight: 600;">
+        School of Cyber Science and Engineering, Wuhan University
+      </div>
+      <div style="display: flex; align-items: center; gap: 1em; margin-bottom: 0.5em;">
+        <span style="color: #6b7280; font-size: 0.95em;">📍 Wuhan, Hubei, China</span>
+        <span style="color: #6b7280; font-size: 0.95em;">🎓 Major: Information Security</span>
+      </div>
+    </div>
   </div>
 </div>
 
-<div style="border-left: 4px solid #f093fb; padding-left: 1em; margin-bottom: 2em;">
-  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5em;">
-    <strong style="font-size: 1.1em; color: #333;">Senior High School</strong>
-    <span style="color: #666; font-style: italic;">2019.09 - 2022.06</span>
-  </div>
-  <div style="color: #555; margin-bottom: 0.3em;">
-    <strong>The High School Attached to Northeast Normal University</strong>, Changchun, China
+<div style="background: linear-gradient(135deg, #fff0f6 0%, #ffffff 100%); border: 1px solid #f4c2d7; border-radius: 16px; padding: 2em; margin-bottom: 2em; box-shadow: 0 4px 20px rgba(240, 147, 251, 0.1); transition: all 0.3s ease;">
+  <div style="display: flex; align-items: center; gap: 1.5em;">
+    <div style="flex: 0 0 80px;">
+      <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 16px rgba(240, 147, 251, 0.3); position: relative;">
+        <img src="images/nenu-logo.png" alt="Northeast Normal University Logo" style="width: 60px; height: 60px; border-radius: 50%; object-fit: contain; background: white; padding: 8px; position: absolute;" onload="this.style.display='block';" onerror="this.style.display='none'; this.parentElement.querySelector('.fallback').style.display='flex';" />
+        <div class="fallback" style="display: flex; color: white; font-weight: bold; font-size: 0.9em; align-items: center; justify-content: center; width: 100%; height: 100%; text-align: center;">NENU</div>
+      </div>
+    </div>
+    <div style="flex: 1;">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.8em;">
+        <h3 style="color: #2d3748; font-size: 1.3em; font-weight: 700; margin: 0; line-height: 1.2;">Senior High School</h3>
+        <span style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; padding: 0.3em 0.8em; border-radius: 20px; font-size: 0.85em; font-weight: 600;">2019.09 - 2022.06</span>
+      </div>
+      <div style="color: #4a5568; font-size: 1.1em; margin-bottom: 0.5em; font-weight: 600;">
+        The High School Attached to Northeast Normal University
+      </div>
+      <div style="display: flex; align-items: center; gap: 1em; margin-bottom: 0.5em;">
+        <span style="color: #6b7280; font-size: 0.95em;">📍 Changchun, Jilin, China</span>
+        <span style="color: #6b7280; font-size: 0.95em;">🏆 Key High School</span>
+      </div>
+    </div>
   </div>
 </div>
 
