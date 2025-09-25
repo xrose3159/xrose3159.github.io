@@ -160,13 +160,13 @@ document.addEventListener('keydown', function(event) {
 </div>
 
 
-<div style="margin-bottom: 1em;">
+<!-- <div style="margin-bottom: 1em;">
   <div style="display: flex; align-items: center; margin-bottom: 0.5em;">
     <span style="background: linear-gradient(90deg, #FFD700, #FFA500); color: white; padding: 4px 8px; border-radius: 15px; font-size: 0.8em; font-weight: bold; margin-right: 10px;">🥇 First Prize</span>
     <strong>China College Student Computer Design Competition</strong> <span style="color: #666;">(Central and South Region - Digital Games and Interaction Design Track)</span>
   </div>
   <div style="color: #666; font-style: italic; margin-left: 20px;">2025</div>
-</div>
+</div> -->
 
 # Scholarships and Honors
 
