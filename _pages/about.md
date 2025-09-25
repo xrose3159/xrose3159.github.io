@@ -61,7 +61,7 @@ document.addEventListener('keydown', function(event) {
 # 🔥 News
 
 
-- **2025.9** 🌟 Paper accepted to NeurIPS 2025 as Spotlight
+- **2025.9** 🌟 One paper about FGL accepted to NeurIPS 2025 as Spotlight
 - **2025.8** 🏆 Won **First Prize** in China Robotics and Artificial Intelligence Competition (New productivity track)
 - **2025.7** 🏆 Won **2 * First Prize** in China Robotics and Artificial Intelligence Competition
 - **2024.11** 🎖️ Awarded **Lei Jun Computer Undergraduate Scholarship** (¥10000)
@@ -75,15 +75,15 @@ document.addEventListener('keydown', function(event) {
 
 <div style="color: #666; font-size: 0.9em; margin-bottom: 2em;">† Equal Contribution</div>
 
-## <span style="color: #667eea; font-weight: 600;">2025</span>
+## <span style="color: #2563eb; font-weight: 600;">2025</span>
 
 <div style="background: linear-gradient(135deg, #f8f9ff 0%, #ffffff 100%); border: 1px solid #e1e8f7; border-radius: 16px; padding: 2em; margin-bottom: 2em; box-shadow: 0 4px 20px rgba(102, 126, 234, 0.1); transition: all 0.3s ease;">
   <div style="display: flex; flex-direction: column; gap: 1.5em;">
     
     <div style="display: flex; gap: 2em; align-items: flex-start;">
       <div style="flex: 1; min-width: 0;">
-        <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 0.3em 0.8em; border-radius: 20px; display: inline-block; font-size: 0.8em; font-weight: 600; margin-bottom: 1em;">
-          NeurIPS 2025 • Spotlight (Accepted)
+        <div style="background: linear-gradient(135deg, #2563eb 0%, #1e40af 100%); color: white; padding: 0.3em 0.8em; border-radius: 20px; display: inline-block; font-size: 0.8em; font-weight: 600; margin-bottom: 1em;">
+          NeurIPS 2025 • Spotlight
         </div>
         
         <h3 style="color: #2d3748; font-size: 1.3em; font-weight: 700; margin: 0 0 0.8em 0; line-height: 1.3;">
@@ -94,15 +94,7 @@ document.addEventListener('keydown', function(event) {
           <strong style="color: #2d3748;">Xiaoran Shang</strong>†, <strong>Guancheng Wan</strong>†, <strong>Guibin Zhang</strong>, <em>et al.</em>
         </div>
         
-        <div style="margin-bottom: 1em;">
-          <div style="color: #666; font-size: 0.9em; margin-bottom: 0.5em; font-weight: 600;">Review Scores:</div>
-          <div style="display: flex; gap: 0.5em; flex-wrap: wrap;">
-            <span style="background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: white; padding: 0.3em 0.8em; border-radius: 20px; font-size: 0.85em; font-weight: 600; box-shadow: 0 2px 8px rgba(16, 185, 129, 0.3);">5 [4]</span>
-            <span style="background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: white; padding: 0.3em 0.8em; border-radius: 20px; font-size: 0.85em; font-weight: 600; box-shadow: 0 2px 8px rgba(16, 185, 129, 0.3);">5 [4]</span>
-            <span style="background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%); color: white; padding: 0.3em 0.8em; border-radius: 20px; font-size: 0.85em; font-weight: 600; box-shadow: 0 2px 8px rgba(245, 158, 11, 0.3);">4 [3]</span>
-            <span style="background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%); color: white; padding: 0.3em 0.8em; border-radius: 20px; font-size: 0.85em; font-weight: 600; box-shadow: 0 2px 8px rgba(245, 158, 11, 0.3);">4 [3]</span>
-          </div>
-        </div>
+        
         
         <div style="color: #6b7280; font-size: 0.95em; font-style: italic; line-height: 1.4;">
           Annual Conference on Neural Information Processing Systems (NeurIPS), 2025
@@ -260,7 +252,7 @@ document.addEventListener('keydown', function(event) {
 <div style="background: linear-gradient(135deg, #f8f9ff 0%, #ffffff 100%); border: 1px solid #e1e8f7; border-radius: 16px; padding: 2em; margin-bottom: 2em; box-shadow: 0 4px 20px rgba(102, 126, 234, 0.1); transition: all 0.3s ease;">
   <div style="display: flex; align-items: center; gap: 1.5em;">
     <div style="flex: 0 0 80px;">
-      <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 16px rgba(102, 126, 234, 0.3); position: relative;">
+      <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #2563eb 0%, #1e40af 100%); display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 16px rgba(37, 99, 235, 0.3); position: relative;">
         <img src="images/whu-logo.png" alt="Wuhan University Logo" style="width: 60px; height: 60px; border-radius: 50%; object-fit: contain; background: white; padding: 8px; position: absolute;" onload="this.style.display='block';" onerror="this.style.display='none'; this.parentElement.querySelector('.fallback').style.display='flex';" />
         <div class="fallback" style="display: flex; color: white; font-weight: bold; font-size: 1.1em; align-items: center; justify-content: center; width: 100%; height: 100%; text-align: center;">WHU</div>
       </div>
@@ -268,7 +260,7 @@ document.addEventListener('keydown', function(event) {
     <div style="flex: 1;">
       <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.8em;">
         <h3 style="color: #2d3748; font-size: 1.3em; font-weight: 700; margin: 0; line-height: 1.2;">Undergraduate Student</h3>
-        <span style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 0.3em 0.8em; border-radius: 20px; font-size: 0.85em; font-weight: 600;">2022.08 - Present</span>
+        <span style="background: linear-gradient(135deg, #2563eb 0%, #1e40af 100%); color: white; padding: 0.3em 0.8em; border-radius: 20px; font-size: 0.85em; font-weight: 600;">2022.08 - Present</span>
       </div>
       <div style="color: #4a5568; font-size: 1.1em; margin-bottom: 0.5em; font-weight: 600;">
         School of Cyber Science and Engineering, Wuhan University
