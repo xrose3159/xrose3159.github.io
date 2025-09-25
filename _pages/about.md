@@ -60,6 +60,8 @@ document.addEventListener('keydown', function(event) {
 
 # 🔥 News
 
+
+- **2025.9** 🌟 Paper accepted to NeurIPS 2025 as Spotlight
 - **2025.8** 🏆 Won **First Prize** in China Robotics and Artificial Intelligence Competition (New productivity track)
 - **2025.7** 🏆 Won **2 * First Prize** in China Robotics and Artificial Intelligence Competition
 - **2024.11** 🎖️ Awarded **Lei Jun Computer Undergraduate Scholarship** (¥10000)
@@ -81,7 +83,7 @@ document.addEventListener('keydown', function(event) {
     <div style="display: flex; gap: 2em; align-items: flex-start;">
       <div style="flex: 1; min-width: 0;">
         <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 0.3em 0.8em; border-radius: 20px; display: inline-block; font-size: 0.8em; font-weight: 600; margin-bottom: 1em;">
-          NeurIPS 2025 • Under Review
+          NeurIPS 2025 • Spotlight (Accepted)
         </div>
         
         <h3 style="color: #2d3748; font-size: 1.3em; font-weight: 700; margin: 0 0 0.8em 0; line-height: 1.3;">
