@@ -19,7 +19,7 @@ redirect_from:
 
 I'm **Xiaoran Shang** (Chinese: 尚萧然), presently a fourth-year undergraduate student studying Information Security at [Cyber Science and Engineering (SCSE)](https://cse.whu.edu.cn/index.htm), [Wuhan University (WHU)](https://www.whu.edu.cn/).
 
-I have closely collaborated with [Mang Ye](https://marswhu.github.io/index.html) of MARS Lab from [School of CS](https://cs.whu.edu.cn/), Wuhan University. I have a strong interest in **MLLM**, and **Multi Agent System(MAS)**. Now I am an intern in Shanghai AI Laboratory, supervised by [Lijun Wu](https://apeterswu.github.io/).
+I have closely collaborated with [Mang Ye](https://marswhu.github.io/index.html) of MARS Lab from [School of CS](https://cs.whu.edu.cn/), Wuhan University. I have a strong interest in **MLLM**, and **Multi Agent System(MAS)**. Now I am an intern in [Shanghai AI Laboratory](https://www.shlab.org.cn/), supervised by [Lijun Wu](https://apeterswu.github.io/).
 
 I am open to any research collaboration. Feel free to contact me via [Email](mailto:armstrongsxr@163.com) or <a href="#" onclick="showWeChatQR(); return false;">WeChat</a>.
 
@@ -61,17 +61,17 @@ document.addEventListener('keydown', function(event) {
 # 🔥 News
 
 
-- **2025.9** 🌟 One paper about FGL accepted to NeurIPS 2025 as Spotlight
-- **2025.8** 🏆 Won **First Prize** in China Robotics and Artificial Intelligence Competition (New productivity track)
-- **2025.7** 🏆 Won **2 * First Prize** in China Robotics and Artificial Intelligence Competition
-- **2024.11** 🎖️ Awarded **Lei Jun Computer Undergraduate Scholarship** (¥10000)
+- **2025.9** One paper about FGL accepted to NeurIPS 2025 as Spotlight
+- **2025.8** Won **First Prize** in China Robotics and Artificial Intelligence Competition (New productivity track)
+- **2025.7** Won **2 * First Prize** in China Robotics and Artificial Intelligence Competition
+- **2024.11** Awarded **Lei Jun Computer Undergraduate Scholarship** (¥10000)
 
 <!--
 # 📝 Publications 
 *前面的世界，以后再来探索吧*
 -->
 
-# 📃 Publications
+# Publications
 
 <div style="color: #666; font-size: 0.9em; margin-bottom: 2em;">† Equal Contribution</div>
 
@@ -110,7 +110,7 @@ document.addEventListener('keydown', function(event) {
   </div>
 </div>
 
-<div style="background: linear-gradient(135deg, #f0f4f8 0%, #ffffff 100%); border: 1px solid #e2e8f0; border-radius: 16px; padding: 2em; margin-bottom: 2em; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05); transition: all 0.3s ease;">
+<!-- <div style="background: linear-gradient(135deg, #f0f4f8 0%, #ffffff 100%); border: 1px solid #e2e8f0; border-radius: 16px; padding: 2em; margin-bottom: 2em; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05); transition: all 0.3s ease;">
   <div style="display: flex; flex-direction: column; gap: 1.5em;">
     
     <div style="display: flex; gap: 2em; align-items: flex-start;">
@@ -139,9 +139,9 @@ document.addEventListener('keydown', function(event) {
       </div>
     </div>
   </div>
-</div>
+</div> -->
 
-# 🏆 Competition Awards
+# Competition Awards
 
 <div style="margin-bottom: 1em;">
   <div style="display: flex; align-items: center; margin-bottom: 0.5em;">
@@ -168,7 +168,7 @@ document.addEventListener('keydown', function(event) {
   <div style="color: #666; font-style: italic; margin-left: 20px;">2025</div>
 </div>
 
-# 🎖 Scholarships and Honors
+# Scholarships and Honors
 
 - **Lei Jun Computer Science Undergraduate Scholarship** (2024)  
   *Award Rate: 10/1213 • Wuhan University & Xiao Mi Technologies Co., Ltd.*
@@ -186,7 +186,7 @@ document.addEventListener('keydown', function(event) {
   *Award Rate: 10% school-wide • Wuhan University*
 
 
-# 📖 Education
+# Education
 
 <div style="background: linear-gradient(135deg, #f8f9ff 0%, #ffffff 100%); border: 1px solid #e1e8f7; border-radius: 16px; padding: 2em; margin-bottom: 2em; box-shadow: 0 4px 20px rgba(102, 126, 234, 0.1); transition: all 0.3s ease;">
   <div style="display: flex; align-items: center; gap: 1.5em;">
@@ -236,12 +236,12 @@ document.addEventListener('keydown', function(event) {
   </div>
 </div>
 
-# 🎓 Academic Service
+# Academic Service
 
 - **Reviewer** for MM, FedKDD WorkShop
 
 
-# 🎓 Misc
+# Misc
 
 - I am a big fans of Derrick Rose, Chris Bumstead and David Dai (Liang zi).
 - I enjoy fitness, and my bench press max is over 100kg.
