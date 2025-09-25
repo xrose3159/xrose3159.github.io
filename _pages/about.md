@@ -19,7 +19,7 @@ redirect_from:
 
 I'm **Xiaoran Shang** (Chinese: 尚萧然), presently a fourth-year undergraduate student studying Information Security at [Cyber Science and Engineering (SCSE)](https://cse.whu.edu.cn/index.htm), [Wuhan University (WHU)](https://www.whu.edu.cn/).
 
-I have closely collaborated with [Prof. Ye](https://marswhu.github.io/index.html) of MARS Lab from [School of CS](https://cs.whu.edu.cn/), Wuhan University. I have a strong interest in **AI Security & Privacy**, **LLM**, and **Multi Agent System(MAS)**.
+I have closely collaborated with [Mang Ye](https://marswhu.github.io/index.html) of MARS Lab from [School of CS](https://cs.whu.edu.cn/), Wuhan University. I have a strong interest in **MLLM**, and **Multi Agent System(MAS)**. Now I am an intern in Shanghai AI Laboratory, supervised by [Lijun Wu](https://apeterswu.github.io/).
 
 I am open to any research collaboration. Feel free to contact me via [Email](mailto:armstrongsxr@163.com) or <a href="#" onclick="showWeChatQR(); return false;">WeChat</a>.
 
@@ -77,7 +77,7 @@ document.addEventListener('keydown', function(event) {
 
 ## <span style="color: #2563eb; font-weight: 600;">2025</span>
 
-<div style="background: linear-gradient(135deg, #f8f9ff 0%, #ffffff 100%); border: 1px solid #e1e8f7; border-radius: 16px; padding: 2em; margin-bottom: 2em; box-shadow: 0 4px 20px rgba(102, 126, 234, 0.1); transition: all 0.3s ease;">
+<div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 16px; padding: 2em; margin-bottom: 2em; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03); transition: all 0.3s ease;">
   <div style="display: flex; flex-direction: column; gap: 1.5em;">
     
     <div style="display: flex; gap: 2em; align-items: flex-start;">
@@ -168,65 +168,6 @@ document.addEventListener('keydown', function(event) {
   <div style="color: #666; font-style: italic; margin-left: 20px;">2025</div>
 </div>
 
-<div style="margin-bottom: 1em;">
-  <div style="display: flex; align-items: center; margin-bottom: 0.5em;">
-    <span style="background: linear-gradient(90deg, #FFD700, #FFA500); color: white; padding: 4px 8px; border-radius: 15px; font-size: 0.8em; font-weight: bold; margin-right: 10px;">🥇 First Prize</span>
-    <strong>China College Student Computer Design Competition</strong> <span style="color: #666;">(Central and South Region - Artificial Intelligence Track)</span>
-  </div>
-  <div style="color: #666; font-style: italic; margin-left: 20px;">2025</div>
-</div>
-
-<div style="margin-bottom: 1em;">
-  <div style="display: flex; align-items: center; margin-bottom: 0.5em;">
-    <span style="background: linear-gradient(90deg, #FFD700, #FFA500); color: white; padding: 4px 8px; border-radius: 15px; font-size: 0.8em; font-weight: bold; margin-right: 10px;">🥇 First Prize</span>
-    <strong>China College Student Computer Design Competition</strong> <span style="color: #666;">(Central and South Region - Big Data Track)</span>
-  </div>
-  <div style="color: #666; font-style: italic; margin-left: 20px;">2025</div>
-</div>
-
-<div style="margin-bottom: 1em;">
-  <div style="display: flex; align-items: center; margin-bottom: 0.5em;">
-    <span style="background: linear-gradient(90deg, #C0C0C0, #A0A0A0); color: white; padding: 4px 8px; border-radius: 15px; font-size: 0.8em; font-weight: bold; margin-right: 10px;">🥈 Second Prize</span>
-    <strong>LanQiao Cup: Artificial Intelligence Algorithm Special Competition</strong> <span style="color: #666;">(Hubei Provincial Division)</span>
-  </div>
-  <div style="color: #666; font-style: italic; margin-left: 20px;">2025</div>
-</div>
-
-<div style="margin-bottom: 1em;">
-  <div style="display: flex; align-items: center; margin-bottom: 0.5em;">
-    <span style="background: linear-gradient(90deg, #CD7F32, #B8860B); color: white; padding: 4px 8px; border-radius: 15px; font-size: 0.8em; font-weight: bold; margin-right: 10px;">🥉 Bronze Medal</span>
-    <strong>NeurIPS 2024 - Ariel Data Challenge</strong>
-  </div>
-  <div style="color: #666; font-style: italic; margin-left: 20px;">2024</div>
-</div>
-
-<div style="margin-bottom: 1em;">
-  <div style="display: flex; align-items: center; margin-bottom: 0.5em;">
-    <span style="background: linear-gradient(90deg, #C0C0C0, #A0A0A0); color: white; padding: 4px 8px; border-radius: 15px; font-size: 0.8em; font-weight: bold; margin-right: 10px;">🥈 Second Prize</span>
-    <strong>The National Undergraduate Mathematical Modeling Contest</strong>
-  </div>
-  <div style="color: #666; font-style: italic; margin-left: 20px;">2024</div>
-</div>
-
-<div style="margin-bottom: 1em;">
-  <div style="display: flex; align-items: center; margin-bottom: 0.5em;">
-    <span style="background: linear-gradient(90deg, #C0C0C0, #A0A0A0); color: white; padding: 4px 8px; border-radius: 15px; font-size: 0.8em; font-weight: bold; margin-right: 10px;">🥈 Silver Medal</span>
-    <strong>China International College Students Innovation Competition</strong> <span style="color: #666;">(Hubei Provincial Division)</span>
-  </div>
-  <div style="color: #666; font-style: italic; margin-left: 20px;">2024</div>
-</div>
-
-<div style="margin-bottom: 1em;">
-  <div style="display: flex; align-items: center; margin-bottom: 0.5em;">
-    <span style="background: linear-gradient(90deg, #FFD700, #FFA500); color: white; padding: 4px 8px; border-radius: 15px; font-size: 0.8em; font-weight: bold; margin-right: 10px;">🥇 First Prize</span>
-    <strong>Huazhong Cup College Student Mathematical Modeling Challenge</strong>
-  </div>
-  <div style="color: #666; font-style: italic; margin-left: 20px;">2024</div>
-</div>
-
-
-
-
 # 🎖 Scholarships and Honors
 
 - **Lei Jun Computer Science Undergraduate Scholarship** (2024)  
@@ -245,14 +186,12 @@ document.addEventListener('keydown', function(event) {
   *Award Rate: 10% school-wide • Wuhan University*
 
 
-
-
 # 📖 Education
 
 <div style="background: linear-gradient(135deg, #f8f9ff 0%, #ffffff 100%); border: 1px solid #e1e8f7; border-radius: 16px; padding: 2em; margin-bottom: 2em; box-shadow: 0 4px 20px rgba(102, 126, 234, 0.1); transition: all 0.3s ease;">
   <div style="display: flex; align-items: center; gap: 1.5em;">
     <div style="flex: 0 0 80px;">
-      <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #2563eb 0%, #1e40af 100%); display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 16px rgba(37, 99, 235, 0.3); position: relative;">
+      <div style="width: 80px; height: 80px; border-radius: 50%; background: #f3f4f6; display: flex; align-items: center; justify-content: center; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05); position: relative;">
         <img src="images/whu-logo.png" alt="Wuhan University Logo" style="width: 60px; height: 60px; border-radius: 50%; object-fit: contain; background: white; padding: 8px; position: absolute;" onload="this.style.display='block';" onerror="this.style.display='none'; this.parentElement.querySelector('.fallback').style.display='flex';" />
         <div class="fallback" style="display: flex; color: white; font-weight: bold; font-size: 1.1em; align-items: center; justify-content: center; width: 100%; height: 100%; text-align: center;">WHU</div>
       </div>
@@ -260,7 +199,7 @@ document.addEventListener('keydown', function(event) {
     <div style="flex: 1;">
       <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.8em;">
         <h3 style="color: #2d3748; font-size: 1.3em; font-weight: 700; margin: 0; line-height: 1.2;">Undergraduate Student</h3>
-        <span style="background: linear-gradient(135deg, #2563eb 0%, #1e40af 100%); color: white; padding: 0.3em 0.8em; border-radius: 20px; font-size: 0.85em; font-weight: 600;">2022.08 - Present</span>
+        <span style="background: #e5e7eb; color: #374151; padding: 0.3em 0.8em; border-radius: 20px; font-size: 0.85em; font-weight: 600;">2022.08 - Present</span>
       </div>
       <div style="color: #4a5568; font-size: 1.1em; margin-bottom: 0.5em; font-weight: 600;">
         School of Cyber Science and Engineering, Wuhan University
@@ -273,10 +212,10 @@ document.addEventListener('keydown', function(event) {
   </div>
 </div>
 
-<div style="background: linear-gradient(135deg, #fff0f6 0%, #ffffff 100%); border: 1px solid #f4c2d7; border-radius: 16px; padding: 2em; margin-bottom: 2em; box-shadow: 0 4px 20px rgba(240, 147, 251, 0.1); transition: all 0.3s ease;">
+<div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 16px; padding: 2em; margin-bottom: 2em; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03); transition: all 0.3s ease;">
   <div style="display: flex; align-items: center; gap: 1.5em;">
     <div style="flex: 0 0 80px;">
-      <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 16px rgba(240, 147, 251, 0.3); position: relative;">
+      <div style="width: 80px; height: 80px; border-radius: 50%; background: #f3f4f6; display: flex; align-items: center; justify-content: center; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05); position: relative;">
         <img src="images/nenu-logo.png" alt="Northeast Normal University Logo" style="width: 60px; height: 60px; border-radius: 50%; object-fit: contain; background: white; padding: 8px; position: absolute;" onload="this.style.display='block';" onerror="this.style.display='none'; this.parentElement.querySelector('.fallback').style.display='flex';" />
         <div class="fallback" style="display: flex; color: white; font-weight: bold; font-size: 0.9em; align-items: center; justify-content: center; width: 100%; height: 100%; text-align: center;">NENU</div>
       </div>
@@ -284,7 +223,7 @@ document.addEventListener('keydown', function(event) {
     <div style="flex: 1;">
       <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.8em;">
         <h3 style="color: #2d3748; font-size: 1.3em; font-weight: 700; margin: 0; line-height: 1.2;">Senior High School</h3>
-        <span style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; padding: 0.3em 0.8em; border-radius: 20px; font-size: 0.85em; font-weight: 600;">2019.09 - 2022.06</span>
+        <span style="background: #e5e7eb; color: #374151; padding: 0.3em 0.8em; border-radius: 20px; font-size: 0.85em; font-weight: 600;">2019.09 - 2022.06</span>
       </div>
       <div style="color: #4a5568; font-size: 1.1em; margin-bottom: 0.5em; font-weight: 600;">
         The High School Attached to Northeast Normal University
