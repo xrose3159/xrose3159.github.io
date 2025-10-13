@@ -169,19 +169,14 @@ document.addEventListener('keydown', function(event) {
 # Scholarships and Honors
 
 - **Lei Jun Computer Science Undergraduate Scholarship** (2024)  
-  *Award Rate: 10/1213 • Wuhan University & Xiao Mi Technologies Co., Ltd.*
 
-- **First Class Scholarship of WHU** (2024)  
-  *Award Rate: 5% school-wide • Wuhan University*
+- **First Class Scholarship of WHU** (2024, 2025)  
 
 - **Lei Jun Computer Innovation and Development Fund** (2024, 2025)  
-  *Wuhan University & Xiao Mi Technologies Co., Ltd.*
 
-- **National Encouragement Scholarship** (2023)  
-  *The Central Government of China*
+- **National Encouragement Scholarship** (2023, 2025)  
 
-- **Merit Student** (2023, 2024)  
-  *Award Rate: 10% school-wide • Wuhan University*
+- **Merit Student** (2023, 2024, 2025)  
 
 
 # Education
