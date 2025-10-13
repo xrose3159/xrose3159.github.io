@@ -195,7 +195,7 @@ document.addEventListener('keydown', function(event) {
         <span style="background: #e5e7eb; color: #374151; padding: 0.3em 0.8em; border-radius: 20px; font-size: 0.85em; font-weight: 600;">2026.09 - Future</span>
       </div>
       <div style="color: #4a5568; font-size: 1.1em; margin-bottom: 0.5em; font-weight: 600;">
-        School of Information Science and Technology
+        School of Information Science and Technology, Ph.D
       </div>
       </div>
     </div>
@@ -215,7 +215,7 @@ document.addEventListener('keydown', function(event) {
         <span style="background: #e5e7eb; color: #374151; padding: 0.3em 0.8em; border-radius: 20px; font-size: 0.85em; font-weight: 600;">2022.08 - Present</span>
       </div>
       <div style="color: #4a5568; font-size: 1.1em; margin-bottom: 0.5em; font-weight: 600;">
-        School of Cyber Science and Engineering
+        School of Cyber Science and Engineering, Bachlor
       </div>
       <div style="display: flex; align-items: center; gap: 1em; margin-bottom: 0.5em;">
       </div>
