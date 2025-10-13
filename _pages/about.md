@@ -218,8 +218,6 @@ document.addEventListener('keydown', function(event) {
         School of Cyber Science and Engineering, Wuhan University
       </div>
       <div style="display: flex; align-items: center; gap: 1em; margin-bottom: 0.5em;">
-        <span style="color: #6b7280; font-size: 0.95em;">📍 Wuhan, Hubei, China</span>
-        <span style="color: #6b7280; font-size: 0.95em;">🎓 Major: Information Security</span>
       </div>
     </div>
   </div>
@@ -242,8 +240,6 @@ document.addEventListener('keydown', function(event) {
         The High School Attached to Northeast Normal University
       </div>
       <div style="display: flex; align-items: center; gap: 1em; margin-bottom: 0.5em;">
-        <span style="color: #6b7280; font-size: 0.95em;">📍 Changchun, Jilin, China</span>
-        <span style="color: #6b7280; font-size: 0.95em;">🏆 Key High School</span>
       </div>
     </div>
   </div>
