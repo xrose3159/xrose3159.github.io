@@ -62,8 +62,8 @@ document.addEventListener('keydown', function(event) {
 
 
 - **2025.9** One paper about FGL accepted to NeurIPS 2025 as Spotlight
-- **2025.8** Won **First Prize** in China Robotics and Artificial Intelligence Competition (New productivity track)
-- **2025.7** Won **2 * First Prize** in China Robotics and Artificial Intelligence Competition
+<!-- - **2025.8** Won **First Prize** in China Robotics and Artificial Intelligence Competition (New productivity track)
+- **2025.7** Won **2 * First Prize** in China Robotics and Artificial Intelligence Competition -->
 - **2024.11** Awarded **Lei Jun Computer Undergraduate Scholarship** (¥10000)
 
 <!--
@@ -141,7 +141,7 @@ document.addEventListener('keydown', function(event) {
   </div>
 </div> -->
 
-# Competition Awards
+<!-- # Competition Awards
 
 <div style="margin-bottom: 1em;">
   <div style="display: flex; align-items: center; margin-bottom: 0.5em;">
@@ -157,7 +157,7 @@ document.addEventListener('keydown', function(event) {
     <strong>China Robotics and Artificial Intelligence Competition (New productivity track)</strong> <span style="color: #666;"></span>
   </div>
   <div style="color: #666; font-style: italic; margin-left: 20px;">2025</div>
-</div>
+</div> -->
 
 
 <!-- <div style="margin-bottom: 1em;">
