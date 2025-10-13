@@ -191,11 +191,11 @@ document.addEventListener('keydown', function(event) {
     </div>
     <div style="flex: 1;">
       <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.8em;">
-        <h3 style="color: #2d3748; font-size: 1.3em; font-weight: 700; margin: 0; line-height: 1.2;">Ph.D</h3>
+        <h3 style="color: #2d3748; font-size: 1.3em; font-weight: 700; margin: 0; line-height: 1.2;">University Of Science And Technology Of China (USTC)</h3>
         <span style="background: #e5e7eb; color: #374151; padding: 0.3em 0.8em; border-radius: 20px; font-size: 0.85em; font-weight: 600;">2026.09 - Future</span>
       </div>
       <div style="color: #4a5568; font-size: 1.1em; margin-bottom: 0.5em; font-weight: 600;">
-        School of Information Science and Technology, University Of Science And Technology Of China
+        School of Information Science and Technology
       </div>
       </div>
     </div>
@@ -211,11 +211,11 @@ document.addEventListener('keydown', function(event) {
     </div>
     <div style="flex: 1;">
       <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.8em;">
-        <h3 style="color: #2d3748; font-size: 1.3em; font-weight: 700; margin: 0; line-height: 1.2;">Undergraduate Student</h3>
+        <h3 style="color: #2d3748; font-size: 1.3em; font-weight: 700; margin: 0; line-height: 1.2;">Wuhan University (WHU)</h3>
         <span style="background: #e5e7eb; color: #374151; padding: 0.3em 0.8em; border-radius: 20px; font-size: 0.85em; font-weight: 600;">2022.08 - Present</span>
       </div>
       <div style="color: #4a5568; font-size: 1.1em; margin-bottom: 0.5em; font-weight: 600;">
-        School of Cyber Science and Engineering, Wuhan University
+        School of Cyber Science and Engineering
       </div>
       <div style="display: flex; align-items: center; gap: 1em; margin-bottom: 0.5em;">
       </div>
@@ -223,7 +223,7 @@ document.addEventListener('keydown', function(event) {
   </div>
 </div>
 
-<div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 16px; padding: 2em; margin-bottom: 2em; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03); transition: all 0.3s ease;">
+<!-- <div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 16px; padding: 2em; margin-bottom: 2em; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03); transition: all 0.3s ease;">
   <div style="display: flex; align-items: center; gap: 1.5em;">
     <div style="flex: 0 0 80px;">
       <div style="width: 80px; height: 80px; border-radius: 50%; background: #f3f4f6; display: flex; align-items: center; justify-content: center; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05); position: relative;">
@@ -243,7 +243,7 @@ document.addEventListener('keydown', function(event) {
       </div>
     </div>
   </div>
-</div>
+</div> -->
 
 # Academic Service
 
