@@ -19,7 +19,7 @@ redirect_from:
 
 I'm **Xiaoran Shang** (Chinese: 尚萧然), presently a fourth-year undergraduate student studying Information Security at [Cyber Science and Engineering (SCSE)](https://cse.whu.edu.cn/index.htm), [Wuhan University (WHU)](https://www.whu.edu.cn/).
 
-I have closely collaborated with [Mang Ye](https://marswhu.github.io/index.html) of MARS Lab from [School of CS](https://cs.whu.edu.cn/), Wuhan University. I have a strong interest in **MLLM**, and **Multi Agent System(MAS)**. Now I am an intern in [Shanghai AI Laboratory](https://www.shlab.org.cn/), supervised by [Lijun Wu](https://apeterswu.github.io/).
+I have closely collaborated with [Mang Ye](https://marswhu.github.io/index.html) of MARS Lab from [School of CS](https://cs.whu.edu.cn/), Wuhan University. I have a strong interest in **Data-Centric AI**, **MLLMs**, and **Multi Agent System(MAS)**. Now I am an intern in [Shanghai AI Laboratory](https://www.shlab.org.cn/), supervised by [Lijun Wu](https://apeterswu.github.io/).
 
 I am open to any research collaboration. Feel free to contact me via [Email](mailto:armstrongsxr@163.com) or <a href="#" onclick="showWeChatQR(); return false;">WeChat</a>.
 
@@ -62,8 +62,6 @@ document.addEventListener('keydown', function(event) {
 
 
 - **2025.9** One paper about FGL accepted to NeurIPS 2025 as Spotlight
-<!-- - **2025.8** Won **First Prize** in China Robotics and Artificial Intelligence Competition (New productivity track)
-- **2025.7** Won **2 * First Prize** in China Robotics and Artificial Intelligence Competition -->
 - **2024.11** Awarded **Lei Jun Computer Undergraduate Scholarship** (¥10000)
 
 <!--
