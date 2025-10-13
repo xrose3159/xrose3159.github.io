@@ -200,7 +200,6 @@ document.addEventListener('keydown', function(event) {
       </div>
     </div>
   </div>
-</div>
 
 <div style="background: linear-gradient(135deg, #f8f9ff 0%, #ffffff 100%); border: 1px solid #e1e8f7; border-radius: 16px; padding: 2em; margin-bottom: 2em; box-shadow: 0 4px 20px rgba(102, 126, 234, 0.1); transition: all 0.3s ease;">
   <div style="display: flex; align-items: center; gap: 1.5em;">
