@@ -247,7 +247,9 @@ document.addEventListener('keydown', function(event) {
 
 # Academic Service
 
-- **Reviewer** for MM, FedKDD WorkShop
+- **Reviewer** for MM 2025, ICLR 2026
+
+- **Reviewer** for FedKDD WorkShop
 
 
 # Misc
