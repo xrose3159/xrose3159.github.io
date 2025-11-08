@@ -101,7 +101,7 @@ document.addEventListener('keydown', function(event) {
       
       <div style="flex: 0 0 300px;">
         <div style="background: white; border-radius: 16px; padding: 0.8em; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);">
-          <img src="images/papaer/HYPERION-NIPS25.png" alt="HYPERION Framework" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15);" />
+          <img src="images/paper/HYPERION-NIPS25.png" alt="HYPERION Framework" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15);" />
         </div>
       </div>
     </div>
