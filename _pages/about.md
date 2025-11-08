@@ -19,9 +19,9 @@ redirect_from:
 
 I'm **Xiaoran Shang** (Chinese: 尚萧然), presently a fourth-year undergraduate student studying Information Security at [Cyber Science and Engineering (SCSE)](https://cse.whu.edu.cn/index.htm), [Wuhan University (WHU)](https://www.whu.edu.cn/).
 
-I have closely collaborated with [Mang Ye](https://marswhu.github.io/index.html) of MARS Lab from [School of CS](https://cs.whu.edu.cn/), Wuhan University. I have a strong interest in **Data-Centric AI**, **MLLMs**, and **Multi Agent System(MAS)**. Now I am an intern in [Shanghai AI Laboratory](https://www.shlab.org.cn/), supervised by [Lijun Wu](https://apeterswu.github.io/). I will join [USTC](https://www.ustc.edu.cn/) as a Ph.D. student in Fall 2026, supervised by Prof. [Feng Zhao](https://auto.ustc.edu.cn/2021/0510/c25976a484874/page.htm)
+I am currently an intern at [Shanghai AI Laboratory](https://www.shlab.org.cn/), advised by [Lijun Wu](https://apeterswu.github.io/). I will be joining [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/) as a Ph.D. student in Fall 2026, supervised by Prof. [Feng Zhao](https://auto.ustc.edu.cn/2021/0510/c25976a484874/page.htm). Previously, I worked closely with Prof. [Mang Ye](https://marswhu.github.io/index.html) at the MARS Lab, [School of CS](https://cs.whu.edu.cn/), Wuhan University.
 
-I am open to any research collaboration. Feel free to contact me via [Email](mailto:armstrongsxr@163.com) or <a href="#" onclick="showWeChatQR(); return false;">WeChat</a>.
+My research interests primarily lie in Data-Centric AI, Multimodal Large Language Models (MLLMs), and Multi-Agent Systems (MAS). I am open to any research collaboration. Feel free to contact me via [Email](mailto:armstrongsxr@163.com) or <a href="#" onclick="showWeChatQR(); return false;">WeChat</a>.
 
 <!-- WeChat QR Code Modal -->
 <div id="wechatModal" style="display: none; position: fixed; z-index: 1000; left: 0; top: 0; width: 100%; height: 100%; background-color: rgba(0,0,0,0.5);" onclick="closeWeChatQR()">
