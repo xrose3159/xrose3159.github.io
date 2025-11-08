@@ -101,7 +101,7 @@ document.addEventListener('keydown', function(event) {
       
       <div style="flex: 0 0 300px;">
         <div style="background: white; border-radius: 16px; padding: 0.8em; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);">
-          <img src="https://github.com/user-attachments/assets/0c71fbd2-78e8-43c6-ab63-594e83a952c2" alt="HYPERION Framework" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15);" />
+          <img src="images/papaer/HYPERION-NIPS25.png" alt="HYPERION Framework" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15);" />
         </div>
       </div>
     </div>
@@ -114,7 +114,7 @@ document.addEventListener('keydown', function(event) {
     <div style="display: flex; gap: 2em; align-items: flex-start;">
       <div style="flex: 1; min-width: 0;">
         <div style="background: linear-gradient(135deg, #2563eb 0%, #1e40af 100%); color: white; padding: 0.3em 0.8em; border-radius: 20px; display: inline-block; font-size: 0.8em; font-weight: 600; margin-bottom: 1em;">
-          AAAI 2026 • Accepted
+          AAAI 2026 • Poster
         </div>
         
         <h3 style="color: #2d3748; font-size: 1.3em; font-weight: 700; margin: 0 0 0.8em 0; line-height: 1.3;">
@@ -134,7 +134,7 @@ document.addEventListener('keydown', function(event) {
       
       <div style="flex: 0 0 300px;">
         <div style="background: white; border-radius: 16px; padding: 0.8em; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);">
-          <img src="https://github.com/user-attachments/assets/0c71fbd2-78e8-43c6-ab63-594e83a952c2" alt="DAWN Framework" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15);" />
+          <img src="images/paper/DAWN-AAAI26.png" alt="DAWN Framework" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15);" />
         </div>
       </div>
     </div>
