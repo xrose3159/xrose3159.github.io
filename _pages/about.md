@@ -492,5 +492,7 @@ To be updated. -->
 
 <!-- 访客地图 -->
 <div style="text-align: center; margin-top: 2em; padding: 1.5em 0; border-top: 1px solid #e5e7eb;">
-  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=8izY-Hk3PAHhRnkbARB_EJ8dcZq4WwqThHCKdzJSolk&cl=ffffff&w=a"></script>
+  <div style="max-width: 600px; margin: 0 auto;">
+    <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=8izY-Hk3PAHhRnkbARB_EJ8dcZq4WwqThHCKdzJSolk&cl=ffffff&w=a"></script>
+  </div>
 </div>
