@@ -287,9 +287,9 @@ document.addEventListener('keydown', function(event) {
 
 # Misc
 
-- I am a big fans of Derrick Rose, Chris Bumstead and David Dai (Liang zi).
+- I am a big fans of Derrick Rose, Chris Bumstead.
 - I enjoy fitness, and my bench press max is over 100kg.
-- I enjoy FPS such as CSGO, VALORANT ...
+- I enjoy FPS such as CSGO, VALORANT.
 - I enjoy basketball, and have served as the starting forward for my college team.
 - I enjoy hiking, and have summited Tianmenshan, Cangshan and so on.
   
