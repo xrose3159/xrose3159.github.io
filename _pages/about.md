@@ -60,6 +60,7 @@ document.addEventListener('keydown', function(event) {
 
 # 🔥 News
 
+- **2025.12** Awarded **Innova Innovation Achievement Award** (¥20000)
 - **2025.11** One paper about Multi Agent System is accepted by AAAI 2026
 - **2025.9** One paper about FGL is accepted by NeurIPS 2025 as Spotlight
 - **2024.11** Awarded **Lei Jun Computer Undergraduate Scholarship** (¥10000)
@@ -200,6 +201,8 @@ document.addEventListener('keydown', function(event) {
 </div> -->
 
 # Scholarships and Honors
+
+- **Innova Inno Innovation Achievement Award** (2025) 
 
 - **Lei Jun Computer Science Undergraduate Scholarship** (2024)  
 
