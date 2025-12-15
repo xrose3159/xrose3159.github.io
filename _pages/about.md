@@ -202,7 +202,7 @@ document.addEventListener('keydown', function(event) {
 
 # Scholarships and Honors
 
-- **Innova Inno Innovation Achievement Award** (2025) 
+- **Innova Innovation Achievement Award** (2025) 
 
 - **Lei Jun Computer Science Undergraduate Scholarship** (2024)  
 
