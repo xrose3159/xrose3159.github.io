@@ -60,6 +60,8 @@ document.addEventListener('keydown', function(event) {
 
 # 🔥 News
 
+- **2026.2** Be invited to be reviewer for ICML'26
+- **2026.1** One patent was granted, two years in the making!
 - **2025.12** Awarded **Innova Innovation Achievement Award** (¥20000)
 - **2025.11** One paper about Multi Agent System is accepted by AAAI 2026
 - **2025.9** One paper about FGL is accepted by NeurIPS 2025 as Spotlight
@@ -283,7 +285,7 @@ document.addEventListener('keydown', function(event) {
 
 # Academic Service
 
-- **Reviewer** for MM 2025, ICLR 2026
+- **Reviewer** for ICML 2026, ICLR 2026, MM 2025 
 
 - **Reviewer** for FedKDD WorkShop
 
